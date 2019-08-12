@@ -6,12 +6,12 @@
 
 # Site title and description
 title:              DS4PS
-description:        Intro. course in data-drive management
+description:        MS in Program Evaluation and Data Analytics
 
 # Site subpath, e.g. /blog
 url :               "https://ds4ps.github.io"
-baseurl:            "/cpp-523-fall-2019"
-course_url:         "http://ds4ps.org/cpp-523-fall-2019/"
+baseurl:            "/ms-prog-eval-data-analytics"
+course_url:         "http://ds4ps.org/ms-prog-eval-data-analytics/"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
@@ -21,27 +21,24 @@ permalink:          /:title/
 # Header text on the left
 brand:
     image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
-    text:           "Program Evaluation"    # if the above "logo:" image variable  is not set, this text logo is displayed instead
+    text:           "MS in Prog Eval & Data Analytics"    # if the above "logo:" image variable  is not set, this text logo is displayed instead
        # in the default html file add extra fav icons to header for parts II and III
 
 
 # header color set at assets/css/custom.css under default_nav and footer background-color
 
 header:
-- title: Syllabus
+- title: About
   url: 
-- title: Course Schedule
-  url: schedule/
-# - title: Yellowdig
-#   url: https://asu.instructure.com/courses/26991/assignments/569550
-- title: Get Help
+- title: Courses
+  url: courses/
+- title: Handbook
+  url: help/
+- Title: DS4PS
+  url: https://ds4ps.org
+- Title: Advising Questions
   url: help/
 
-footer:
-- title: Home
-  url: /
-- title: Course Schedule
-  url: /schedule/
 
 
 # Default author settings
@@ -52,8 +49,8 @@ author:
 github_info:
     username:          DS4PS # Github location of the course
     branch:            master
-    website-repo:      cpp-523-fall-2019
-    course-repo:       cpp-523-fall-2019
+    website-repo:      ms-prog-eval-data-analytics
+    course-repo:       ms-prog-eval-data-analytics
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
