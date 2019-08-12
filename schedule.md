@@ -1,199 +1,89 @@
 ---
-layout: schedule
-title: Schedule
-
-canvas: 
-  assignment_url: 'https://www.google.com/'
+layout: default
+title: Courses
 ---
  
-<!--- 
-New sections start with 2 stars:  ** Section Title
-New units start with 3 stars:     *** {Unit Metadata}
------------------------------start example
-** Section-I
-*** { @unit = "15th Nov", @title = "Course Overview", @reading, @lecture, @assignment, @foldout }
------------------------------end example
-Unit Metadata is comprised of:
-@unit - date or number
-@title - unit name
-@reading - turn on reading icon
-@assignment - turn on lecture icon
-@lecture - turn on lecture icon
-@foldout - activate unit content (allow foldout)
-Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">Submit Lab</a>
--->
-
-<style> 
-body {
-   font-family: "Roboto", sans-serif;
-}
- 
-p.italic {
-  font-style: italic;
-  color: black !important;
-}
-td {
-  text-align: left;
-}
-td.i {
-  text-align: center;
-}
-iframe {
-  align: middle;
-}
-</style>
-
-
-
-** Welcome
-
-
-*** { @unit = "", @title = "Video Example", @reading, @foldout }
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDbD_JSCrNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-*** { @unit = "", @title = "Image Example", @lecture, @foldout }
-
-![](https://raw.githubusercontent.com/DS4PS/paf-586-summer-2019/master/assets/img/course-cadence.png)
-
-
-
-
-*** { @unit = "", @title = "Lab Example", @assignment, @foldout }
-
-## Data Labs
-
-This class highlights two themes:
-
-1. Data is easier to obtain than ever before.
-2. Organizations that use data effectively perform better.
-
-So how can we get better at using data? 
-
-**Learning Objectives**: These labs are designed to better understand the process of collecting and utilizing data. The emphasis is on building a strategy to identify high-value data that is most useful for the organization, which requires basic knowledge about data quality. Does the data provide the type of information that is useful for discovery or prediction, and does it measure outcomes precisely?
-
-Lab 03 is available here:
-
-<a class="uk-button uk-button-default" href="https://ds4ps.org/paf-586-summer-2019/lab-03-feature-selection/">LAB 03</a>
-
-When ready, you can submit your lab via Canvas:
-
-<a class="uk-button uk-button-default" href="https://canvas.asu.edu/courses/26991/assignments/588320">Submit</a>
-
-
-
-
-
-
-
-** Week 1 - Regression Review
-
-*** { @unit = "", @title = "Overview of the Week", @foldout  }
-
-
-*** { @unit = "Due DATE", @title = "Reading Title", @reading }
-
-
-*** { @unit = "Due DATE", @title = "Lecture Title", @lecture  }
-
-
-*** { @unit = "Due DATE", @title = "Lab 01", @assignment  }
-
-
-
-
-
-** Week 2 - Regression Review
-
-*** { @unit = "", @title = "Overview of the Week", @foldout  }
-
-
-*** { @unit = "Due DATE", @title = "Reading Title", @reading }
-
-
-*** { @unit = "Due DATE", @title = "Lecture Title", @lecture  }
-
-
-*** { @unit = "Due DATE", @title = "Lab 02", @assignment  }
-
-
-
-
-
-** Week 3 - Regression Review
-
-*** { @unit = "", @title = "Overview of the Week", @foldout  }
-
-
-*** { @unit = "Due DATE", @title = "Reading Title", @reading }
-
-
-*** { @unit = "Due DATE", @title = "Lecture Title", @lecture  }
-
-
-*** { @unit = "Due DATE", @title = "Lab 03", @assignment  }
-
-
-
-
-
-** Week 4
-
-*** { @unit = "", @title = "Overview of the Week", @foldout  }
-
-
-*** { @unit = "Due DATE", @title = "Reading Title", @reading }
-
-
-*** { @unit = "Due DATE", @title = "Lecture Title", @lecture  }
-
-
-*** { @unit = "Due DATE", @title = "Lab 04", @assignment  }
-
-
-
-** Week 5
-
-*** { @unit = "", @title = "Overview of the Week", @foldout  }
-
-
-*** { @unit = "Due DATE", @title = "Reading Title", @reading }
-
-
-*** { @unit = "Due DATE", @title = "Lecture Title", @lecture  }
-
-
-*** { @unit = "Due DATE", @title = "Lab 05", @assignment  }
-
-
-
-** Week 6 - Specification
-
-*** { @unit = "", @title = "Overview of the Week", @foldout  }
-
-
-*** { @unit = "Due DATE", @title = "Reading Title", @reading }
-
-
-*** { @unit = "Due DATE", @title = "Lecture Title", @lecture  }
-
-
-*** { @unit = "Due DATE", @title = "Lab 06", @assignment  }
-
-
-
-
-
-
-
-** Week 7  
-
-*** { @unit = "", @title = "Review", @lecture }
-
-
-
-** FINAL EXAM
-
-*** { @unit = "Due DATE", @title = "Final Exam", @assignment }
+## Requirements: 10 courses + 1 capstone semester = 33 credits
+•	9 credits in Foundations of Program Evaluation (3 course sequence)
+•	9 credits in Foundations of Data Science (3 course sequence)
+•	3 credits of Systems and Theories of Program Evaluation (1 course)
+•	3 credits of applied data project (1 course)
+•	6 credits of approved electives (2 courses)
+•	3 credits of a 15-week capstone class (1 course)
+
+# Core Courses
+
+## FOUNDATIONS OF PROGRAM EVALUATION I: MULTIPLE REGRESSION AND HYPOTHESIS TESTING
+* Overview of the field of quantitative program evaluation
+* Program impact as effect size
+* Standard errors, confidence intervals, and hypothesis testing
+* Multiple regression models
+* Control variables and omitted variable bias
+* Hypothesis testing using regression
+* Measurement error and statistical power
+
+## FOUNDATIONS OF PROGRAM EVALUATION II: RESEARCH DESIGN
+* Counterfactual analysis
+* Outcomes and measurement
+* Three common counterfactuals (equivalent groups, reflexive, and synthetic)
+* Average treatment effects (treatment on treated, intention to treat)
+* True experiments
+* Quasi-experiments
+* Internal validity and competing hypotheses (Campbell Scores)
+
+## FOUNDATIONS OF PROGRAM EVALUATION III: REGRESSION TOOLS
+* Model Specification
+* Log Models
+* Quadratic Models
+* Fixed Effects Models 
+* Instrumental Variables
+* Matching
+* Regression Discontinuity
+* Difference-in-Difference
+* Time Series
+* Logistic Regression
+* Duration Analysis
+
+## FOUNDATIONS OF DATA SCIENCE I: BASIC R PROGRAMMING
+* Overview of the field of data driven management
+* Functions and arguments
+* Data structures
+* Data import / export
+* Logical arguments and groups
+* Subsets and merges
+* Descriptive statistics, with groups
+* Visualization, graphs, and maps
+* Basic control structures and programming
+* Building automated reports
+
+## DATA PRACTICUM: MANAGING A DATA-DRIVEN RESEARCH PROJECT
+* Project management foundations
+* Import data from several sources including APIs
+* Aggregate all data to proper units of analysis
+* Combine data into single research database
+* Create a data dictionary
+* Conduct analysis using Program Eval tools
+
+## FOUNDATIONS OF DATA SCIENCE II: DATA WRANGLING
+* Advanced data structures
+* Tidy data and tidyverse 
+* Advanced data wrangling
+* Regular expressions and text analysis
+* Data APIs
+* Advanced markdown formats
+* Animations
+
+## FOUNDATIONS OF DATA SCIENCE III: THE COLLABORATIVE ECOSYSTEM
+* Open science and reproducibility
+* Open data movement and standards
+* The agile framework for team management
+* Building functions and packages
+* GitHub pages
+* Report methodology and results in professional format
+* Building Packages
+
+## CAPSTONE
+* Applied consulting project with a public or nonprofit organization
+* Students must analyze a problem, propose a solution, and implement
+* Should relate to conducting and impact study or building a performance system
+* Use a 15-week format, but is still 3 credits
