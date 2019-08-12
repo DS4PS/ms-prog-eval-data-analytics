@@ -3,9 +3,9 @@ layout: index
 title: Syllabus
 
 index:
-    title: Foundations of Program Evaluation I
-    image: distribution.svg
-    subtitle: Regression analysis for the study of program impact.
+    title: Online Master of Science in Program Evaluation and Data Analytics
+    image: data-analytics.png
+    subtitle: This tools-based degree prepares you for a career that spans the public, nonprofit and private sectors using data-driven and evidence-based approaches to social impact.
     
 info: 
  program_title: Program Evaluation and Data Analytics
