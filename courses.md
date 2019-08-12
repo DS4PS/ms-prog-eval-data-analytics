@@ -11,9 +11,15 @@ h2 {
   font-weight: 700; 
   line-height: 26.4px;
 }
+h1 { 
+  font-size: 36px;  
+  color: maroon;
+}
  </style>
  
-## Requirements: 10 courses + 1 capstone semester = 33 credits
+# Requirements: 
+
+## 10 courses + 1 capstone semester = 33 credits
 •	9 credits in Foundations of Program Evaluation (3 course sequence) 
 •	9 credits in Foundations of Data Science (3 course sequence) 
 •	3 credits of Systems and Theories of Program Evaluation (1 course) 
