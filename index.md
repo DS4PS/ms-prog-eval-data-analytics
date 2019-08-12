@@ -33,6 +33,8 @@ The MS in Program Evaluation and Data Analytics (MS-PEDA) is a new degree option
 
 Data is ubiquitous in organizations, but it rarely exists in nice, clean spreadsheets. The current graduate programs in the College of Public Service and Community Solutions all emphasize analytical models by requiring statistics courses, where students learn to apply complex modeling techniques like regression to pre-existing datasets. They spend little time, however, learning to build new datasets. In the real world, analysts spend 80 to 90 percent of their time building datasets, and 10 to 20 percent analyzing them. The current curriculum ignores 80 to 90 percent of the process. Organizations that are committed to evidence-based approaches to management and policy need employees that can quickly compile data for a specific purpose. 
 
+### Practical Skills 
+
 Employees that can generate new datasets from multiple sources using non-standard and unstructured inputs add value to organizations. These skills have traditionally been taught in computer science programs, but have recently migrated to the field of data science, a multi-disciplinary space that combines elements of data programming, statistical modeling, and graphical design to emphasize a core set of tools used to quickly acquire and analyze data, and report results in a meaningful way. 
 
 ### Advanced Training
