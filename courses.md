@@ -53,6 +53,11 @@ th {
 * 3 credits of a 15-week capstone class (1 course)  
 
 
+## Example Courses
+* [Program Eval I](https://ds4ps.org/cpp-523-fall-2019/) 
+* [Data Science I]((https://ds4ps.org/cpp-526-fall-2019/))  
+* [Data-Driven Management](http://ds4ps.org/paf-586-summer-2019/) 
+
 ## Example Labs
 * [Data Wrangling](https://ds4ps.org/Data-Science-Class/LABS//lab-12-instructions.html) 
 * [Visualization](https://ds4ps.org/Data-Science-Class/LABS//lab-07-instructions.html)  
@@ -72,7 +77,7 @@ CPP 524 Program Eval II      |    |  CPP 525 Program Eval III
 CPP 527 Data Science II      |    |  CPP 528 Data Science III 
 
 
-## [Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing](https://ds4ps.org/cpp-523-fall-2019/)
+## Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing
 * Overview of the field of quantitative program evaluation
 * Program impact as effect size
 * Standard errors, confidence intervals, and hypothesis testing
@@ -81,7 +86,7 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Hypothesis testing using regression
 * Measurement error and statistical power
 
-## FOUNDATIONS OF PROGRAM EVALUATION II: RESEARCH DESIGN
+## Foundations of Program Evaluation II: Research Design
 * Counterfactual analysis
 * Outcomes and measurement
 * Three common counterfactuals (equivalent groups, reflexive, and synthetic)
@@ -90,10 +95,7 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Quasi-experiments
 * Internal validity and competing hypotheses (Campbell Scores)
 
-## FOUNDATIONS OF PROGRAM EVALUATION III: REGRESSION TOOLS
-* Model Specification
-* Log Models
-* Quadratic Models
+## Foundations of Program Evaluation III: Advanced Regression Tools 
 * Fixed Effects Models 
 * Instrumental Variables
 * Matching
@@ -103,7 +105,7 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Logistic Regression
 * Duration Analysis
 
-## [Foundations of Data Science I: R Programming](https://ds4ps.org/cpp-526-fall-2019/)
+## Foundations of Data Science I: R Programming
 * Overview of the field of data driven management
 * Functions and arguments
 * Data structures
@@ -116,7 +118,7 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Building automated reports 
 
 
-## FOUNDATIONS OF DATA SCIENCE II: DATA WRANGLING
+## Foundations of Data Science II: Data Wrangling
 * Advanced data structures
 * Tidy data and tidyverse 
 * Advanced data wrangling
@@ -125,7 +127,7 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Advanced markdown formats
 * Animations
 
-## FOUNDATIONS OF DATA SCIENCE III: THE COLLABORATIVE ECOSYSTEM
+## Foundations of Data Science III: Project Management & Collaboration 
 * Open science and reproducibility
 * Open data movement and standards
 * The agile framework for team management
@@ -134,7 +136,7 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Report methodology and results in professional format
 * Building Packages
 
-## DATA PRACTICUM: MANAGING A DATA-DRIVEN RESEARCH PROJECT
+## Data Practicum: Data-Driven Models of Community Change 
 * Project management foundations
 * Import data from several sources including APIs
 * Aggregate all data to proper units of analysis
@@ -143,8 +145,6 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Conduct analysis using Program Eval tools
 
 # Electives 
-
-## [PAF 586: Data-Driven Management](http://ds4ps.org/paf-586-summer-2019/)
 
 ## Example Graduate Analytics Courses Across the University 
 
