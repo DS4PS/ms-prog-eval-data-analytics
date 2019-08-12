@@ -77,7 +77,7 @@ CPP 524 Program Eval II      |    |  CPP 525 Program Eval III
 CPP 527 Data Science II      |    |  CPP 528 Data Science III 
 
 
-## Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing
+## CPP 523 Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing
 * Overview of the field of quantitative program evaluation
 * Program impact as effect size
 * Standard errors, confidence intervals, and hypothesis testing
@@ -86,7 +86,7 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Hypothesis testing using regression
 * Measurement error and statistical power
 
-## Foundations of Program Evaluation II: Research Design
+## Cpp 524 Foundations of Program Evaluation II: Research Design
 * Counterfactual analysis
 * Outcomes and measurement
 * Three common counterfactuals (equivalent groups, reflexive, and synthetic)
@@ -95,7 +95,7 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Quasi-experiments
 * Internal validity and competing hypotheses (Campbell Scores)
 
-## Foundations of Program Evaluation III: Advanced Regression Tools 
+## CPP 525 Foundations of Program Evaluation III: Advanced Regression Tools 
 * Fixed Effects Models 
 * Instrumental Variables
 * Matching
@@ -105,7 +105,7 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Logistic Regression
 * Duration Analysis
 
-## Foundations of Data Science I: R Programming
+## CPP 526 Foundations of Data Science I: R Programming
 * Overview of the field of data driven management
 * Functions and arguments
 * Data structures
@@ -118,7 +118,7 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Building automated reports 
 
 
-## Foundations of Data Science II: Data Wrangling
+## CPP 527 Foundations of Data Science II: Data Wrangling
 * Advanced data structures
 * Tidy data and tidyverse 
 * Advanced data wrangling
@@ -127,7 +127,7 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Advanced markdown formats
 * Animations
 
-## Foundations of Data Science III: Project Management & Collaboration 
+## CPP 528 Foundations of Data Science III: Project Management & Collaboration 
 * Open science and reproducibility
 * Open data movement and standards
 * The agile framework for team management
@@ -136,7 +136,7 @@ CPP 527 Data Science II      |    |  CPP 528 Data Science III
 * Report methodology and results in professional format
 * Building Packages
 
-## Data Practicum: Data-Driven Models of Community Change 
+## CPP 529 Data Practicum: Data-Driven Models of Community Change 
 * Project management foundations
 * Import data from several sources including APIs
 * Aggregate all data to proper units of analysis
