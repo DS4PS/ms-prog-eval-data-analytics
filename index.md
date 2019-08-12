@@ -27,6 +27,8 @@ h1 {
 
 The MS in Program Evaluation and Data Analytics (MS-PEDA) is a new degree option to train public and nonprofit sector leaders in data-driven management. The degree combines two important fields – statistical training in causal analysis, econometric techniques, and research design that serve as the foundations of evidence-based management and program evaluation, and data science courses that prepare students to work with complex datasets, effectively visualizing and communicate results, and participate in the data science ecosystem of open source software and collaboration. 
 
+-----
+
 ### Ubiquitous Data
 
 Data is ubiquitous in organizations, but it rarely exists in nice, clean spreadsheets. The current graduate programs in the College of Public Service and Community Solutions all emphasize analytical models by requiring statistics courses, where students learn to apply complex modeling techniques like regression to pre-existing datasets. They spend little time, however, learning to build new datasets. In the real world, analysts spend 80 to 90 percent of their time building datasets, and 10 to 20 percent analyzing them. The current curriculum ignores 80 to 90 percent of the process. Organizations that are committed to evidence-based approaches to management and policy need employees that can quickly compile data for a specific purpose. 
