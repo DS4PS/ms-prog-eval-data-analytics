@@ -34,8 +34,6 @@ header:
   url: courses/
 - title: Handbook
   url: handbook/
-- title: DS4PS
-  url: 'https://ds4ps.org' 
 - title: Contact 
   url: contact/
 
