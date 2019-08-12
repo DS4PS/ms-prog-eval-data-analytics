@@ -8,7 +8,7 @@ index:
     subtitle: This tools-based degree prepares you for a career that spans the public, nonprofit and private sectors using data-driven and evidence-based approaches to social impact.
 ---
 
-
+<style>
 h2 {
 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
   font-size: 28px; 
@@ -21,6 +21,8 @@ h1 {
   font-size: 36px;  
   color: maroon;
 }
+ </style>
+
 
 # Program Overview
 
