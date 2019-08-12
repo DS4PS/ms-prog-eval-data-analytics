@@ -93,7 +93,7 @@ CPP 527 Data Science II      |  CPP 528 Data Science III
 * Logistic Regression
 * Duration Analysis
 
-## [FOUNDATIONS OF DATA SCIENCE I: BASIC R PROGRAMMING](https://ds4ps.org/cpp-526-fall-2019/)
+## [Foundations of Data Science I: R Programming](https://ds4ps.org/cpp-526-fall-2019/)
 * Overview of the field of data driven management
 * Functions and arguments
 * Data structures
@@ -103,7 +103,8 @@ CPP 527 Data Science II      |  CPP 528 Data Science III
 * Descriptive statistics, with groups
 * Visualization, graphs, and maps
 * Basic control structures and programming
-* Building automated reports
+* Building automated reports 
+* [Example Lab](https://ds4ps.org/Data-Science-Class/LABS//lab-12-instructions.html) 
 
 ## FOUNDATIONS OF DATA SCIENCE II: DATA WRANGLING
 * Advanced data structures
@@ -133,6 +134,8 @@ CPP 527 Data Science II      |  CPP 528 Data Science III
 
 # Electives 
 
+## [PAF 586: Data-Driven Management](http://ds4ps.org/paf-586-summer-2019/)
+
 ## Example Graduate Analytics Courses Across the University 
 
 You will select two electives from a list of approved courses (this list is not exhaustive and not all of these are available). 
@@ -156,7 +159,6 @@ You will select two electives from a list of approved courses (this list is not 
 * TWC 551 Copyright & Intellectual Property in the Electronic Age (3)
 * TWC 552 Information in the Digital Age (3)
 
-## [Data-Driven Management](http://ds4ps.org/paf-586-summer-2019/)
 
 # CAPSTONE
 * Applied consulting project with a public or nonprofit organization
