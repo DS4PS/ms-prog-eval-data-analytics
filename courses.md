@@ -24,7 +24,7 @@ img {
  
 th {
   text-align: left;
-  font-size: 16px;
+  font-size: 20px;
 }
  </style>
  
