@@ -23,7 +23,7 @@ img {
 }
  
 th {
-  align: left;
+  text-align: left;
   font-size: 16px;
 }
  </style>
