@@ -4,7 +4,7 @@ title: Program Overview
 
 index:
     title: Master of Science in Program Evaluation and Data Analytics
-    image: data-analytics.png
+    image: asu_seal_maroon.png
     subtitle: This tools-based degree prepares you for a career that spans the public, nonprofit and private sectors using data-driven and evidence-based approaches to social impact.
 ---
 
