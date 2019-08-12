@@ -18,6 +18,10 @@ h1 {
 }
  </style>
  
+<br>
+![](assets/posts/server-engineer.png)
+<br>
+ 
 # Requirements: 
 
 ## 10 courses + 1 capstone semester = 33 credits
@@ -104,3 +108,11 @@ h1 {
 * Students must analyze a problem, propose a solution, and implement
 * Should relate to conducting and impact study or building a performance system
 * Use a 15-week format, but is still 3 credits
+
+<br>
+
+----
+
+![](assets/posts/asu_seal_maroon.png)
+
+<br>
