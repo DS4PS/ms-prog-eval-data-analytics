@@ -16,12 +16,25 @@ h1 {
   font-size: 36px;  
   color: maroon;
 }
+img {
+  align: middle;
+}
  </style>
  
-<br>
-![](assets/posts/server-engineer.png)
-<br>
+
  
+ 
+ <br>
+
+----
+
+![](assets/posts/asu_seal_maroon.png)
+
+--- 
+
+<br>
+
+
 # Requirements: 
 
 ## 10 courses + 1 capstone semester = 33 credits
@@ -110,9 +123,7 @@ h1 {
 * Use a 15-week format, but is still 3 credits
 
 <br>
-
-----
-
-![](assets/posts/asu_seal_maroon.png)
-
+<br>
+![](assets/posts/server-engineer.png)
+<br>
 <br>
