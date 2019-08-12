@@ -11,10 +11,12 @@ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   font-variant: small-caps; 
   font-weight: 100;
   line-height: 26.4px;
+  text-align: center;
 }
 h1 { 
   font-size: 36px;  
   color: maroon;
+  text-align: center;
 }
 img {
   display: block;
