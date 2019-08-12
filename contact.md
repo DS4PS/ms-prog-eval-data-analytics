@@ -32,7 +32,7 @@ img {
 
 # MS in Program Evaluation and Data Analytics
 
-## Contact us for more details
+## contact us for more details
 
 [![](assets/posts/asu-online.jpg)](https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms/)
 
