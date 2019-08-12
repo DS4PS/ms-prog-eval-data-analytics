@@ -35,11 +35,10 @@ img {
 
 [![](assets/posts/asu-online.jpg)](https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms/)
 
-# MS in Program Evaluation 
-# and Data Analytics
+# Program Evaluation & Data Analytics
 
-## Watts College of Public Service 
+## Watts College of Public Service
 
-## Center for Technology, Data, and Society 
+## Center for Technology, Data, and Society
 
 <br>
