@@ -6,7 +6,7 @@ title: Learn More
 <style>
 h2 {
 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
-  font-size: 28px; 
+  font-size: 36px; 
   font-style: normal; 
   font-variant: small-caps; 
   font-weight: 100;
