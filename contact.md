@@ -32,7 +32,7 @@ img {
 
 ## Contact us for more details
 
-[![](assets/posts/asu-online.png)](https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms/)
+[![](assets/posts/asu-online.jpg)](https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms/)
 
 
 
