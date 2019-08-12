@@ -34,9 +34,9 @@ header:
   url: courses/
 - title: Handbook
   url: help/
-- Title: DS4PS
-  url: https://ds4ps.org
-- Title: Advising Questions
+- title: DS4PS
+  url: 'https://ds4ps.org' 
+- title: Advising Questions 
   url: help/
 
 
