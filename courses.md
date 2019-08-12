@@ -21,6 +21,10 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+ 
+th {
+  align: left;
+}
  </style>
  
 
