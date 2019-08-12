@@ -10,7 +10,7 @@ index:
 <style>
 h3 {
 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
-  font-size: 42px; 
+  font-size: 36px; 
   font-style: normal; 
   font-weight: 100;
   line-height: 26.4px;
@@ -46,7 +46,9 @@ Public sector agencies and nonprofit organizations can benefit greatly from empl
 This degree is specifically tailored toward individuals with a background in social science, a commitment to public service, and no significant computer programming training (although those with backgrounds in other computer programming would benefit from training in R). The full M.S. degree prepares students to work as analysts and managers in public sector or social purpose organizations. Alternatively, those that are currently employed in the public sector but need to update their skills can decide between a certificate in Program Evaluation, or a certificate in Data Science. The degree will also serve as a source for additional methods training for graduate students across the College of Public Service and Community Solutions, or as a stepping-stone degree for someone interested in doing a PhD in public affairs or economics. We can also target undergraduate students with degrees in fields like economics, urban planning, or computer science that would like marketable data or management skills and would want to complete a master’s program in a year.
 
 
----
+<br>
+
+<b> --- </b>
 
 <br>
 
