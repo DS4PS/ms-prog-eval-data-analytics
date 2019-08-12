@@ -21,6 +21,11 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+ 
+th {
+  text-align: left;
+  font-size: 20px;
+}
  </style>
  
 
@@ -47,14 +52,24 @@ img {
 * 6 credits of approved electives (2 courses)  
 * 3 credits of a 15-week capstone class (1 course)  
 
+
+## Example Labs
+* [Data Wrangling](https://ds4ps.org/Data-Science-Class/LABS//lab-12-instructions.html) 
+* [Visualization](https://ds4ps.org/Data-Science-Class/LABS//lab-07-instructions.html)  
+* [Data from Sensors](https://ds4ps.org/paf-586-summer-2019/lab-04-feature-engineering/) 
+
+
+<br>
+<br>
+
 # Core Courses
 
-Session A                    |  Session B 
------------------------------|----------------------------------
-CPP 523 Program Eval I       |  SWK 643 Systems and Theories 
-CPP 526 Data Science I       |  CPP 529 Data Practicum 
-CPP 524 Program Eval II      |  CPP 525 Program Eval III 
-CPP 527 Data Science II      |  CPP 528 Data Science III 
+Session A                    |    |   Session B 
+-----------------------------|----|------------------------------
+CPP 523 Program Eval I       |    |  SWK 643 Systems and Theories 
+CPP 526 Data Science I       |    |  CPP 529 Data Practicum 
+CPP 524 Program Eval II      |    |  CPP 525 Program Eval III 
+CPP 527 Data Science II      |    |  CPP 528 Data Science III 
 
 
 ## [Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing](https://ds4ps.org/cpp-523-fall-2019/)
@@ -88,7 +103,7 @@ CPP 527 Data Science II      |  CPP 528 Data Science III
 * Logistic Regression
 * Duration Analysis
 
-## [FOUNDATIONS OF DATA SCIENCE I: BASIC R PROGRAMMING](https://ds4ps.org/cpp-526-fall-2019/)
+## [Foundations of Data Science I: R Programming](https://ds4ps.org/cpp-526-fall-2019/)
 * Overview of the field of data driven management
 * Functions and arguments
 * Data structures
@@ -98,7 +113,8 @@ CPP 527 Data Science II      |  CPP 528 Data Science III
 * Descriptive statistics, with groups
 * Visualization, graphs, and maps
 * Basic control structures and programming
-* Building automated reports
+* Building automated reports 
+
 
 ## FOUNDATIONS OF DATA SCIENCE II: DATA WRANGLING
 * Advanced data structures
@@ -128,6 +144,8 @@ CPP 527 Data Science II      |  CPP 528 Data Science III
 
 # Electives 
 
+## [PAF 586: Data-Driven Management](http://ds4ps.org/paf-586-summer-2019/)
+
 ## Example Graduate Analytics Courses Across the University 
 
 You will select two electives from a list of approved courses (this list is not exhaustive and not all of these are available). 
@@ -151,7 +169,6 @@ You will select two electives from a list of approved courses (this list is not 
 * TWC 551 Copyright & Intellectual Property in the Electronic Age (3)
 * TWC 552 Information in the Digital Age (3)
 
-## [Data-Driven Management](http://ds4ps.org/paf-586-summer-2019/)
 
 # CAPSTONE
 * Applied consulting project with a public or nonprofit organization
