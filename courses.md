@@ -61,6 +61,10 @@ CPP 526 Data Science I       |  CPP 529 Data Practicum
 CPP 524 Program Eval II      |  CPP 525 Program Eval III 
 CPP 527 Data Science II      |  CPP 528 Data Science III 
 
+## Example Labs
+* [Data Wrangling](https://ds4ps.org/Data-Science-Class/LABS//lab-12-instructions.html) 
+* [Visualization](https://ds4ps.org/Data-Science-Class/LABS//lab-07-instructions.html)  
+* [Data from Sensors](https://ds4ps.org/paf-586-summer-2019/lab-04-feature-engineering/) 
 
 ## [Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing](https://ds4ps.org/cpp-523-fall-2019/)
 * Overview of the field of quantitative program evaluation
@@ -104,7 +108,7 @@ CPP 527 Data Science II      |  CPP 528 Data Science III
 * Visualization, graphs, and maps
 * Basic control structures and programming
 * Building automated reports 
-* [Example Lab](https://ds4ps.org/Data-Science-Class/LABS//lab-12-instructions.html) 
+
 
 ## FOUNDATIONS OF DATA SCIENCE II: DATA WRANGLING
 * Advanced data structures
