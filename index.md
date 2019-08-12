@@ -4,7 +4,7 @@ title: Program Overview
 
 index:
     title: Master of Science in Program Evaluation and Data Analytics
-    image: data-science-ecosystem.png
+    image: data-analytics.png
     subtitle: This tools-based degree prepares you for a career that spans the public, nonprofit and private sectors using data-driven and evidence-based approaches to social impact.
 ---
 
