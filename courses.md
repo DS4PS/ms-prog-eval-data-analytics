@@ -37,7 +37,7 @@ img {
 <br>
 
 
-# Requirements: 
+# Program Requirements: 
 
 ## 10 courses + 1 capstone semester = 33 credits
 * 9 credits in Foundations of Program Evaluation (3 course sequence)  
