@@ -6,7 +6,7 @@ title: Courses
 <style>
 h2 {
 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
-  font-size: 24px; 
+  font-size: 28px; 
   font-style: normal; 
   font-variant: small-caps; 
   font-weight: 100;
@@ -49,7 +49,7 @@ img {
 
 # Core Courses
 
-## [FOUNDATIONS OF PROGRAM EVALUATION I: MULTIPLE REGRESSION AND HYPOTHESIS TESTING](https://ds4ps.org/cpp-523-fall-2019/)
+## [Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing](https://ds4ps.org/cpp-523-fall-2019/)
 * Overview of the field of quantitative program evaluation
 * Program impact as effect size
 * Standard errors, confidence intervals, and hypothesis testing
