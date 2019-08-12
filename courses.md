@@ -17,7 +17,9 @@ h1 {
   color: maroon;
 }
 img {
-  align: middle;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
  </style>
  
@@ -78,7 +80,7 @@ img {
 * Logistic Regression
 * Duration Analysis
 
-## FOUNDATIONS OF DATA SCIENCE I: BASIC R PROGRAMMING
+## [FOUNDATIONS OF DATA SCIENCE I: BASIC R PROGRAMMING](https://ds4ps.org/cpp-526-fall-2019/)
 * Overview of the field of data driven management
 * Functions and arguments
 * Data structures
@@ -89,14 +91,6 @@ img {
 * Visualization, graphs, and maps
 * Basic control structures and programming
 * Building automated reports
-
-## DATA PRACTICUM: MANAGING A DATA-DRIVEN RESEARCH PROJECT
-* Project management foundations
-* Import data from several sources including APIs
-* Aggregate all data to proper units of analysis
-* Combine data into single research database
-* Create a data dictionary
-* Conduct analysis using Program Eval tools
 
 ## FOUNDATIONS OF DATA SCIENCE II: DATA WRANGLING
 * Advanced data structures
@@ -115,6 +109,14 @@ img {
 * GitHub pages
 * Report methodology and results in professional format
 * Building Packages
+
+## DATA PRACTICUM: MANAGING A DATA-DRIVEN RESEARCH PROJECT
+* Project management foundations
+* Import data from several sources including APIs
+* Aggregate all data to proper units of analysis
+* Combine data into single research database
+* Create a data dictionary
+* Conduct analysis using Program Eval tools
 
 ## CAPSTONE
 * Applied consulting project with a public or nonprofit organization
