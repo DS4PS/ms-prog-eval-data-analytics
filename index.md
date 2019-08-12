@@ -3,8 +3,8 @@ layout: index
 title: Syllabus
 
 index:
-    title: Online Master of Science in Program Evaluation and Data Analytics
-    image: data-analytics.png
+    title: Master of Science in Program Evaluation and Data Analytics
+    image: city.svg
     subtitle: This tools-based degree prepares you for a career that spans the public, nonprofit and private sectors using data-driven and evidence-based approaches to social impact.
     
 info: 
