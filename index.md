@@ -12,7 +12,6 @@ h3 {
 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
   font-size: 42px; 
   font-style: normal; 
-  font-variant: small-caps; 
   font-weight: 100;
   line-height: 26.4px;
   color: maroon;
