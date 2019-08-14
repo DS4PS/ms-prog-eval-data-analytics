@@ -71,7 +71,7 @@ th {
 
 Session A                    |    |   Session B 
 -----------------------------|----|------------------------------
-CPP 523 Program Eval I       |    |  SWK 643 Applied Evaluation 
+CPP 523 Program Eval I       |    |  SWK 623 Applied Evaluation 
 CPP 526 Data Science I       |    |  CPP 529 Data Practicum 
 CPP 524 Program Eval II      |    |  CPP 525 Program Eval III 
 CPP 527 Data Science II      |    |  CPP 528 Data Science III 
