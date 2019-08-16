@@ -35,7 +35,7 @@ th {
 
 ----
 
-<img src="assets/posts/asu_sunburst.png" alt="ASU" width="300" >
+<img src="/assets/posts/asu_sunburst.png" alt="ASU" style="width:300px;height:200px;" >
 
 --- 
 
