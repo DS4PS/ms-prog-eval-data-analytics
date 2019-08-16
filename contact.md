@@ -25,7 +25,6 @@ img {
 }
 .uk-button-primary{
    align: middle;
-  color: maroon;
  }
  </style>
  
@@ -46,7 +45,7 @@ img {
 
 ## Watts College of Public Service
 
-<a class="uk-button uk-button-danger" href="https://publicservice.asu.edu/programs/ms/program-evaluation-and-data-analytics-ms">MORE INFO</a>
+<a class="uk-button uk-button-primary" href="https://publicservice.asu.edu/programs/ms/program-evaluation-and-data-analytics-ms">MORE INFO</a>
 
 ## Center for Technology, Data, and Society
 
