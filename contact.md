@@ -24,7 +24,7 @@ img {
   margin-right: auto;
 }
 .uk-button{
-   align: center;
+   align: middle;
  }
  </style>
  
