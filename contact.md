@@ -23,8 +23,9 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-.uk-button{
+.uk-button-primary{
    align: middle;
+  color: maroon;
  }
  </style>
  
