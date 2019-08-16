@@ -45,7 +45,10 @@ img {
 
 ## Watts College of Public Service
 
+<center>
 <a class="uk-button uk-button-primary" href="https://publicservice.asu.edu/programs/ms/program-evaluation-and-data-analytics-ms">MORE INFO</a>
+</center>
+
 
 ## Center for Technology, Data, and Society
 
