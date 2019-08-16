@@ -23,6 +23,9 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+.uk-button{
+   align: center;
+ }
  </style>
  
 
