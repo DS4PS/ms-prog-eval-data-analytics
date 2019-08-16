@@ -18,6 +18,10 @@ h1 {
   color: maroon;
   text-align: center;
 }
+h3 {
+  text-align: center;
+  color: maroon;
+}
 img {
   display: block;
   margin-left: auto;
