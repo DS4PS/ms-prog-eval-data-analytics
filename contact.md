@@ -25,6 +25,7 @@ img {
 }
 .uk-button-primary{
    align: middle;
+   background-color: maroon;
  }
  </style>
  
@@ -40,7 +41,7 @@ img {
 # Program Evaluation & Data Analytics
 
 <center>
-<a class="uk-button uk-button-primary" href="https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms/">APPLY TO THE ONLINE PROGRAM</a>
+<a class="uk-button uk-button-primary" href="https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms/">APPLY</a>
 </center>
 <br>
 <br>
