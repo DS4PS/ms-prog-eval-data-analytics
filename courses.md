@@ -35,7 +35,7 @@ th {
 
 ----
 
-<img src="/assets/posts/asu_sunburst.png" alt="ASU" style="width:300px;height:200px;" >
+<img src="https://raw.githubusercontent.com/DS4PS/ms-prog-eval-data-analytics/master/assets/posts/asu_sunburst.png" alt="ASU" style="width:400px" >
 
 --- 
 
