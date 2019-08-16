@@ -7,4 +7,6 @@ Website for the M.S. in Program Evaluation and Data Analytics as ASU.
 
 Guide to plaigurism in stats and data.
 
-How to excel at the program (succeed at homework). 
+How to succeed in program.
+
+Instructions for Assignments. 

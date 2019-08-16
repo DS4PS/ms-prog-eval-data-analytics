@@ -3,7 +3,7 @@ layout: index
 title: Program Overview
 index:
     title: Master of Science in Program Evaluation and Data Analytics
-    image: asu_seal_maroon.png
+    image: asu_sunburst.png
     subtitle: This tools-based degree prepares you for a career that spans the public, nonprofit and private sectors using data-driven and evidence-based approaches to social impact.
 ---
 
@@ -27,7 +27,6 @@ h1 {
 
 The MS in Program Evaluation and Data Analytics (MS-PEDA) is a new degree option to train public and nonprofit sector leaders in data-driven management. The degree combines two important fields – statistical training in causal analysis, econometric techniques, and research design that serve as the foundations of evidence-based management and program evaluation, and data science courses that prepare students to work with complex datasets, effectively visualizing and communicate results, and participate in the data science ecosystem of open source software and collaboration. 
 
------
 
 ### Ubiquitous Data
 
