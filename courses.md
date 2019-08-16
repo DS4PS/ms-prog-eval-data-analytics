@@ -35,7 +35,7 @@ th {
 
 ----
 
-![](assets/posts/asu_seal_maroon.png)
+<img src="assets/posts/asu_sunburst.png" alt="ASU" width="300" >
 
 --- 
 
