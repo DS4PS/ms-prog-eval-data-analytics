@@ -92,7 +92,7 @@ _**SEMESTER 3**_
 
 Session A                    |    |   Session B  
 -----------------------------|----|------------------------------  
-Capstone (15 weeks  --> )     |    |  Capstone (15 weeks)  
+Capstone (15 weeks  --> )     |    |  Capstone (ends)  
 Elective      |    |  Elective  
 
 
