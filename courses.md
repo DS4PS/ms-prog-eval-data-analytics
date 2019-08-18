@@ -77,7 +77,7 @@ Online courses are 7.5 weeks long and organized as two sessions (A and B) each s
 
 _**SEMESTER 1**_
 
-Session A (7.5 weeks)                   |    |   Session B (7.5 weeks)  
+Session A                  |    |   Session B  
 -----------------------------|----|------------------------------  
 CPP 523 Program Eval I       |    |  SWK 623 Applied Evaluation  
 CPP 526 Data Science I       |    |  CPP 529 Data Practicum  
@@ -93,7 +93,7 @@ _**SEMESTER 3**_
 
 Session A                    |    |   Session B  
 -----------------------------|----|------------------------------  
-Capstone (15 weeks)     |    |  Capstone (15 weeks)  
+Capstone (15 weeks  --> )     |    |  Capstone (15 weeks)  
 Elective      |    |  Elective  
 
 
