@@ -26,6 +26,10 @@ th {
   text-align: left;
   font-size: 20px;
 }
+i {
+  text-color: maroon;
+  color: black;
+}
  </style>
  
 
@@ -69,6 +73,7 @@ th {
 
 # Core Courses
 
+Online courses are 7.5 weeks long and organized as two sessions (A and B) each semester.
 
 _**SEMESTER 1**_
 
