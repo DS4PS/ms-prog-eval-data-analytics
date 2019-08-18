@@ -105,7 +105,7 @@ Elective      |    |  Elective
 
 -----
 
-
+### Program Evaluation Core
 
 ## CPP 523 Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing
 * Overview of the field of quantitative program evaluation
@@ -134,6 +134,12 @@ Elective      |    |  Elective
 * Time Series
 * Logistic Regression
 * Duration Analysis
+
+
+-----
+
+### Data Science Core
+
 
 ## CPP 526 Foundations of Data Science I: R Programming
 * Overview of the field of data driven management
@@ -166,6 +172,9 @@ Elective      |    |  Elective
 * Report methodology and results in professional format
 * Building Packages
 
+-----
+
+
 ## CPP 529 Data Practicum: Data-Driven Models of Community Change 
 * Project management foundations
 * Import data from several sources including APIs
@@ -173,6 +182,9 @@ Elective      |    |  Elective
 * Combine data into single research database
 * Create a data dictionary
 * Conduct analysis using Program Eval tools
+
+
+
 
 # Electives 
 
