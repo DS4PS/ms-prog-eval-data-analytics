@@ -72,7 +72,7 @@ em {
 
 # Core Courses
 
-Online courses are 7.5 weeks long and organized as two sessions (A and B) each semester.
+Online courses are 7.5 weeks long and organized as two sessions (A and B) each semester. A full-time student could complete the program by taking courses in this order:
 
 
 
