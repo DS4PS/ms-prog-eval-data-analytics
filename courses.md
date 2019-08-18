@@ -105,6 +105,9 @@ Elective      |    |  Elective
 
 Part-time students would approach the course sequences in a different way, and there are also certificate options for Program Evaluation (5 courses) or Data Science (5 courses). 
 
+<br>
+
+
 -----
 
 ### Program Evaluation Core
@@ -176,6 +179,7 @@ Part-time students would approach the course sequences in a different way, and t
 
 -----
 
+### Project-Based Course
 
 ## CPP 529 Data Practicum: Data-Driven Models of Community Change 
 * Project management foundations
