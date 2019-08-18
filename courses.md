@@ -16,6 +16,9 @@ h1 {
   font-size: 36px;  
   color: maroon;
 }
+h3 {
+  color: maroon;
+}
 img {
   display: block;
   margin-left: auto;
