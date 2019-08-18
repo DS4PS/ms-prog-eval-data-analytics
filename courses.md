@@ -55,7 +55,7 @@ th {
 
 ## Example Courses
 * [Program Eval I](https://ds4ps.org/cpp-523-fall-2019/) 
-* [Data Science I]((https://ds4ps.org/cpp-526-fall-2019/))  
+* [Data Science I](https://ds4ps.org/cpp-526-fall-2019/)  
 * [Data-Driven Management](http://ds4ps.org/paf-586-summer-2019/) 
 
 ## Example Labs
