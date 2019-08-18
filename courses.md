@@ -100,6 +100,10 @@ Capstone (15 weeks  --> )     |    |  Capstone continued
 Elective      |    |  Elective  
 
 
+-----
+
+
+
 ## CPP 523 Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing
 * Overview of the field of quantitative program evaluation
 * Program impact as effect size
