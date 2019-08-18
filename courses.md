@@ -76,22 +76,28 @@ Online courses are 7.5 weeks long and organized as two sessions (A and B) each s
 
 
 
-_**SEMESTER 1**_ | Session A                  |    |   Session B  
-------|-----------------------|----|------------------------------  
-   |  CPP 523 Program Eval I       |    |  SWK 623 Applied Evaluation  
-   |  CPP 526 Data Science I       |    |  CPP 529 Data Practicum  
+_**SEMESTER 1**_ 
+
+Session A                  |    |   Session B  
+----------------------------|----|------------------------------  
+CPP 523 Program Eval I       |    |  SWK 623 Applied Evaluation  
+CPP 526 Data Science I       |    |  CPP 529 Data Practicum  
 
 
-_**SEMESTER 2**_  |  Session A                    |    |   Session B 
---------------|  ---------------|----|------------------------------
-   |  CPP 524 Program Eval II      |    |  CPP 525 Program Eval III 
-   |  CPP 527 Data Science II      |    |  CPP 528 Data Science III 
+_**SEMESTER 2**_   
+
+Session A                    |    |   Session B 
+-----------------------------|----|------------------------------
+CPP 524 Program Eval II      |    |  CPP 525 Program Eval III 
+CPP 527 Data Science II      |    |  CPP 528 Data Science III 
 
 
-_**SEMESTER 3**_  |  Session A                    |    |   Session B  
-------------------|-----------|----|------------------------------  
-  |  Capstone (15 weeks  --> )     |    |  Capstone (ends)  
-  |  Elective      |    |  Elective  
+_**SEMESTER 3**_  
+
+Session A                    |    |   Session B  
+----------------------------|----|------------------------------  
+Capstone (15 weeks  --> )     |    |  Capstone (ends)  
+Elective      |    |  Elective  
 
 
 ## CPP 523 Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing
