@@ -70,21 +70,26 @@ th {
 # Core Courses
 
 
-**Semester 1**
-Session A (7.5 weeks)                   |    |   Session B (7.5 weeks)
------------------------------|----|------------------------------
-CPP 523 Program Eval I       |    |  SWK 623 Applied Evaluation 
-CPP 526 Data Science I       |    |  CPP 529 Data Practicum 
-**Semester 2**
+_**SEMESTER 1**_
+
+Session A (7.5 weeks)                   |    |   Session B (7.5 weeks)  
+-----------------------------|----|------------------------------  
+CPP 523 Program Eval I       |    |  SWK 623 Applied Evaluation  
+CPP 526 Data Science I       |    |  CPP 529 Data Practicum  
+
+_**SEMESTER 2**_
+
 Session A                    |    |   Session B 
 -----------------------------|----|------------------------------
 CPP 524 Program Eval II      |    |  CPP 525 Program Eval III 
 CPP 527 Data Science II      |    |  CPP 528 Data Science III 
-**Semester 3**
-Session A                    |    |   Session B 
------------------------------|----|------------------------------
-Capstone (15 weeks)     |    |  Capstone (15 weeks) 
-Elective      |    |  Elective 
+
+_**SEMESTER 3**_
+
+Session A                    |    |   Session B  
+-----------------------------|----|------------------------------  
+Capstone (15 weeks)     |    |  Capstone (15 weeks)  
+Elective      |    |  Elective  
 
 
 ## CPP 523 Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing
