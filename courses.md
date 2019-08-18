@@ -103,6 +103,8 @@ Capstone (15 weeks  --> )     |    |  Capstone continued
 Elective      |    |  Elective  
 
 
+Part-time students would approach the course sequences in a different way, and there are also certificate options for Program Evaluation (5 courses) or Data Science (5 courses). 
+
 -----
 
 ### Program Evaluation Core
