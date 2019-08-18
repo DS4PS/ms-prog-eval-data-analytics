@@ -26,8 +26,7 @@ th {
   text-align: left;
   font-size: 20px;
 }
-i {
-  text-color: maroon;
+em {
   color: black;
 }
  </style>
