@@ -138,7 +138,7 @@ Part-time students would approach the course sequences in a different way, and t
 * Difference-in-Difference
 * Time Series
 * Logistic Regression
-* Duration Analysis
+
 
 
 -----
