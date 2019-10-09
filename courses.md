@@ -205,8 +205,6 @@ You will select two electives from a list of approved courses (this list is not 
 * BMI 616 Clinical Decision Support and Evidence-Based Medicine (3)
 * BMI 605 Health Information Systems and Applications (3)
 * BMI 612 Applied Data Mining (3)
-* SCM 518 Analytical Decision Modeling I (3) 
-* SCM 519 Analytical Decision Modeling II (3)
 * TWC 511 Principles of Visual Communication (3)
 * TWC 514 Visualizing Data & Information (3)
 * TWC 531 Principles of Technical Editing (3)
