@@ -62,7 +62,7 @@ em {
 ## Example Courses
 * [Program Eval I](https://ds4ps.org/cpp-523-fall-2019/) 
 * [Data Science I](https://ds4ps.org/cpp-526-fall-2019/)  
-* [Data-Driven Management](http://ds4ps.org/paf-586-summer-2019/) 
+* [Community Analytics](https://ds4ps.org/cpp-529-master/) 
 
 ## Example Labs
 * [Data Wrangling](https://ds4ps.org/Data-Science-Class/LABS//lab-12-instructions.html) 
