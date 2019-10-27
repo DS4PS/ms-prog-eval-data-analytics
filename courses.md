@@ -67,7 +67,8 @@ em {
 ## Example Labs
 * [Data Wrangling](https://ds4ps.org/Data-Science-Class/LABS//lab-12-instructions.html) 
 * [Visualization](https://ds4ps.org/Data-Science-Class/LABS//lab-07-instructions.html)  
-* [Data from Sensors](https://ds4ps.org/paf-586-summer-2019/lab-04-feature-engineering/) 
+* [Modeling Community Dynamics](https://ds4ps.org/cpp-529-master/labs/lab-03-tutorial.html)  
+* [Feature Engineering](https://ds4ps.org/paf-586-summer-2019/lab-04-feature-engineering/)  
 
 
 <br>
