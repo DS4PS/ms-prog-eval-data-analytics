@@ -47,6 +47,10 @@ em {
 
 <br>
 
+> According to [LinkedIn’s 2018 Jobs Report](https://economicgraph.linkedin.com/research/linkedin-2018-emerging-jobs-report), seven of the ten fastest-growing job categories in the United States are data-centered: machine-learning engineer, data scientist, big-data engineer, full-stack developer, to name just a few. And these are well-paying, exciting, challenging jobs. [cite](http://freakonomics.com/podcast/math-curriculum/)
+
+<br>
+
 
 # Program Requirements: 
 
