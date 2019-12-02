@@ -3,37 +3,6 @@ layout: default
 title: Courses
 ---
 
-<style>
-h2 {
-font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
-  font-size: 28px; 
-  font-style: normal; 
-  font-variant: small-caps; 
-  font-weight: 100;
-  line-height: 26.4px;
-}
-h1 { 
-  font-size: 36px;  
-  color: maroon;
-}
-h3 {
-  color: maroon;
-}
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
- 
-th {
-  text-align: left;
-  font-size: 20px;
-}
-em {
-  color: black;
-}
- </style>
- 
 
  
  
@@ -201,7 +170,7 @@ Part-time students would approach the course sequences in a different way, and t
 
 ## Example Graduate Analytics Courses Across the University 
 
-You will select two electives from a list of approved courses (this list is not exhaustive and not all of these are available). 
+You will select two electives from a list of approved courses (this list is not exhaustive and not all of these are available - the list is meant to provide examples of the types of courses that count for electives). 
 
 * HED 605: Data Management and Preparation for Higher Ed Analytics
 * HED 606: Advanced Analytic Methods for Higher Ed
@@ -217,6 +186,7 @@ You will select two electives from a list of approved courses (this list is not 
 * TWC 546 Technical and Scientific Reports (3)
 * TWC 551 Copyright & Intellectual Property in the Electronic Age (3)
 * TWC 552 Information in the Digital Age (3)
+* *up-to-date list of approved courses and current schedules can be obtained from program admin*
 
 
 # CAPSTONE
@@ -228,3 +198,37 @@ You will select two electives from a list of approved courses (this list is not 
 <br>
 <br>
 <br>
+
+
+
+<style>
+h2 {
+font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+  font-size: 28px; 
+  font-style: normal; 
+  font-variant: small-caps; 
+  font-weight: 100;
+  line-height: 26.4px;
+}
+h1 { 
+  font-size: 36px;  
+  color: maroon;
+}
+h3 {
+  color: maroon;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ 
+th {
+  text-align: left;
+  font-size: 20px;
+}
+em {
+  color: black;
+}
+ </style>
+ 
