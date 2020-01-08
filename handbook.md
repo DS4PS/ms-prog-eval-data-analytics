@@ -30,7 +30,7 @@ img {
 
 ----
 
-![](assets/img/handbook.png)
+[ ![](assets/img/handbook.png) ](https://github.com/DS4PS/ms-prog-eval-data-analytics/raw/master/articles/PEDA-Student-Guide-v2020.pdf)
 
 --- 
 
