@@ -3,6 +3,24 @@ layout: default
 title: Handbook
 ---
 
+
+ 
+
+ 
+ 
+ <br>
+
+----
+
+[ ![](assets/img/handbook.png) ](https://github.com/DS4PS/ms-prog-eval-data-analytics/raw/master/articles/PEDA-Student-Guide-v2020.pdf)
+
+--- 
+
+<br>
+
+
+
+
 <style>
 h2 {
 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
@@ -22,16 +40,3 @@ img {
   margin-right: auto;
 }
  </style>
- 
-
- 
- 
- <br>
-
-----
-
-[ ![](assets/img/handbook.png) ](https://github.com/DS4PS/ms-prog-eval-data-analytics/raw/master/articles/PEDA-Student-Guide-v2020.pdf)
-
---- 
-
-<br>
