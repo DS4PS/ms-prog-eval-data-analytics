@@ -7,20 +7,6 @@ index:
     subtitle: This tools-based degree prepares you for a career that spans the public, nonprofit and private sectors using data-driven and evidence-based approaches to social impact.
 ---
 
-<style>
-h3 {
-font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
-  font-size: 36px; 
-  font-style: normal; 
-  font-weight: 100;
-  line-height: 26.4px;
-  color: maroon;
-}
-h1 { 
-  font-size: 38px;  
-  color: maroon;
-}
- </style>
 
 
 # Program Overview
@@ -62,6 +48,19 @@ Public sector agencies and nonprofit organizations can benefit greatly from empl
 
 
 <style> 
+h3 {
+font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+  font-size: 36px; 
+  font-style: normal; 
+  font-weight: 100;
+  line-height: 26.4px;
+  color: maroon;
+}
+h1 { 
+  font-size: 38px;  
+  color: maroon;
+}
+    
 body {
    font-family: "Roboto", sans-serif;
 }
@@ -75,4 +74,5 @@ p.italic {
   font-style: normal;
 }
 </style>
+
 
