@@ -33,8 +33,8 @@ title: Courses
 
 
 ## Example Courses
-* [Program Eval I](https://ds4ps.org/cpp-523-fall-2019/) 
-* [Data Science I](https://ds4ps.org/cpp-526-fall-2019/)  
+* [Program Eval I](https://ds4ps.org/cpp-523-fall-2020/) 
+* [Data Science I](https://ds4ps.org/cpp-526-fall-2020/)  
 * [Community Analytics](https://ds4ps.org/cpp-529-master/) 
 
 ## Example Labs
