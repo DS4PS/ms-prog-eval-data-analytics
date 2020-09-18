@@ -45,6 +45,8 @@ title: Courses
 
 ## Example Capstone Projects
 * [Using LIDAR Data for a Tree Census](https://castower.github.io/cpp-593-treeproject-site/)  
+  - [The lidR Package](https://github.com/Jean-Romain/lidR)  
+  - [Tree Canopy Analysis using rLiDAR](https://cran.r-project.org/web/packages/ForestTools/vignettes/treetopAnalysis.html)  
 
 <br>
 <br>
