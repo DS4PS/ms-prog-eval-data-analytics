@@ -48,6 +48,8 @@ title: Courses
   - [The lidR Package](https://github.com/Jean-Romain/lidR/blob/master/README.md)  
   - [Tree Canopy Analysis using rLiDAR](https://cran.r-project.org/web/packages/ForestTools/vignettes/treetopAnalysis.html)  
 
+![](https://raw.githubusercontent.com/Jean-Romain/storage/master/README/point-cloud-rotating.gif)
+
 <br>
 <br>
 
