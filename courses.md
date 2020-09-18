@@ -133,23 +133,23 @@ Part-time students would approach the course sequences in a different way, and t
 * Building automated reports 
 
 
-## CPP 527 Foundations of Data Science II: Data Wrangling
-* Advanced data structures
-* Tidy data and tidyverse 
-* Advanced data wrangling
-* Regular expressions and text analysis
-* Data APIs
-* Advanced markdown formats
+## CPP 527 Foundations of Data Science II: Data Wrangling 
+* Control structures 
+* Simulation 
 * Animations
+* Regular expressions and text analysis
+* Building functions 
+* Building packages
+* GitHub pages
+* Advanced markdown formats
+
 
 ## CPP 528 Foundations of Data Science III: Project Management & Collaboration 
 * Open science and reproducibility
 * Open data movement and standards
+* Project management tools 
 * The agile framework for team management
-* Building functions and packages
-* GitHub pages
-* Report methodology and results in professional format
-* Building Packages
+* Data APIs
 
 -----
 
