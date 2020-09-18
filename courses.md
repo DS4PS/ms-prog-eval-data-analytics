@@ -43,6 +43,8 @@ title: Courses
 * [Modeling Community Dynamics](https://ds4ps.org/cpp-529-master/labs/lab-03-tutorial.html)  
 * [Feature Engineering](https://ds4ps.org/paf-586-summer-2019/lab-04-feature-engineering/)  
 
+## Example Capstone Projects
+* [Using LIDAR Data for a Tree Census](https://castower.github.io/cpp-593-treeproject-site/)  
 
 <br>
 <br>
