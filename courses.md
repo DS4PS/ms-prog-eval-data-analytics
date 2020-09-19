@@ -50,8 +50,8 @@ title: Courses
 
 
 <figure style="display:flex">
-    <img style="width:500px" src="https://raw.githubusercontent.com/Jean-Romain/storage/master/README/point-cloud-rotating.gif">
-    <img style="width:500px" src="https://raw.githubusercontent.com/Jean-Romain/storage/master/README/chm-Khosravipour.png">
+    <img style="width:600px" src="https://raw.githubusercontent.com/Jean-Romain/storage/master/README/point-cloud-rotating.gif">
+    <img style="width:400px" src="https://raw.githubusercontent.com/Jean-Romain/storage/master/README/chm-Khosravipour.png">
 </figure>
 
 
