@@ -49,10 +49,12 @@ title: Courses
   - [Tree Canopy Analysis using rLiDAR](https://cran.r-project.org/web/packages/ForestTools/vignettes/treetopAnalysis.html)  
 
 
-<div class="half" style="display:flex">
-    <img class="first" src="https://raw.githubusercontent.com/Jean-Romain/storage/master/README/point-cloud-rotating.gif">
-    <img class="second" src="https://raw.githubusercontent.com/Jean-Romain/storage/master/README/chm-Khosravipour.png">
-</div>
+<table><tr>
+<td> <img src="https://raw.githubusercontent.com/Jean-Romain/storage/master/README/point-cloud-rotating.gif" style="width:600px;"/> </td>
+<td> <img src="https://raw.githubusercontent.com/Jean-Romain/storage/master/README/chm-Khosravipour.png" alt="Drawing" style="width:400px;"/> </td>
+</tr></table>
+
+
 
 
 
@@ -241,28 +243,6 @@ th {
 }
 em {
   color: black;
-}
-
-
-.half {
-  max-width:100vw;
-  margin:0;
-  padding:0;
- 
-}
-
-.first {
-  display:inline-block;
-  max-width:60%;
-  height:auto;
-   vertical-align:top;
-   margin:-4px;
-}
-.second {
-  display:inline-block;
-  max-width:40%;
-  height:auto;
-    margin:-4px;
 }
  </style>
  
