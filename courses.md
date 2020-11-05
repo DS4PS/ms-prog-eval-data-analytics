@@ -33,9 +33,9 @@ title: Courses
 
 
 ## Example Courses
-* [Program Eval I](https://ds4ps.org/cpp-523-fall-2020/) 
-* [Data Science I](https://ds4ps.org/cpp-526-fall-2020/)  
-* [Community Analytics](https://ds4ps.org/cpp-529-master/) 
+* [Program Eval I](https://ds4ps.org/cpp-523-fall-2020/schedule/) 
+* [Data Science I](https://ds4ps.org/cpp-526-fall-2020/schedule/)  
+* [Community Analytics](https://ds4ps.org/cpp-529-fall-2020/schedule/) 
 
 ## Example Labs
 * [Data Wrangling](https://ds4ps.org/Data-Science-Class/LABS//lab-12-instructions.html) 
