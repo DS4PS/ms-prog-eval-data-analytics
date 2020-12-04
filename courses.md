@@ -34,7 +34,11 @@ title: Courses
 
 ## Example Courses
 * [Program Eval I](https://ds4ps.org/cpp-523-fall-2020/schedule/) 
-* [Data Science I](https://ds4ps.org/cpp-526-fall-2020/schedule/)  
+* [Program Eval II](https://ds4ps.org/cpp-524-spr-2020/schedule/) 
+* [Program Eval III](https://ds4ps.org/cpp-525-fall-2020/schedule/) 
+* [Data Science I](https://ds4ps.org/cpp-526-fall-2020/schedule/) 
+* [Data Science II](https://ds4ps.org/cpp-527-fall-2020/schedule/) 
+* [Data Science III](https://ds4ps.org/cpp-528-fall-2020/schedule/) 
 * [Community Analytics](https://ds4ps.org/cpp-529-fall-2020/schedule/) 
 
 ## Example Labs
