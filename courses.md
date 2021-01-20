@@ -47,57 +47,7 @@ title: Courses
 * [Modeling Community Dynamics](https://ds4ps.org/cpp-529-master/labs/lab-03-tutorial.html)  
 * [Feature Engineering](https://ds4ps.org/paf-586-summer-2019/lab-04-feature-engineering/)  
 
-## Example Capstone Projects
-* [Using LIDAR Data for a Tree Census](https://castower.github.io/cpp-593-treeproject-site/)  
-  - [The lidR Package](https://github.com/Jean-Romain/lidR/blob/master/README.md)  
-  - [Tree Canopy Analysis using rLiDAR](https://cran.r-project.org/web/packages/ForestTools/vignettes/treetopAnalysis.html)  
 
-
-<table><tr>
-<td> <img src="https://raw.githubusercontent.com/Jean-Romain/storage/master/README/point-cloud-rotating.gif" style="width:600px;"/> </td>
-<td> <img src="https://raw.githubusercontent.com/Jean-Romain/storage/master/README/chm-Khosravipour.png" alt="Drawing" style="width:400px;"/> </td>
-</tr></table>
-
-
-
-
-
-<br>
-<br>
-
-# Core Courses
-
-Online courses are 7.5 weeks long and organized as two sessions (A and B) each semester. A full-time student could complete the program by taking courses in this order:
-
-
-
-_**SEMESTER 1**_ 
-
-Session A                  |    |   Session B  
-----------------------------|----|------------------------------  
-CPP 523 Program Eval I       |    |  SWK 623 Applied Evaluation  
-CPP 526 Data Science I       |    |  CPP 529 Data Practicum  
-
-
-_**SEMESTER 2**_   
-
-Session A                    |    |   Session B 
------------------------------|----|------------------------------
-CPP 524 Program Eval II      |    |  CPP 525 Program Eval III 
-CPP 527 Data Science II      |    |  CPP 528 Data Science III 
-
-
-_**SEMESTER 3**_  
-
-Session A                    |    |   Session B  
-----------------------------|----|------------------------------  
-Capstone (15 weeks  --> )     |    |  Capstone continued  
-Elective      |    |  Elective  
-
-
-Part-time students would approach the course sequences in a different way, and there are also certificate options for Program Evaluation (5 courses) or Data Science (5 courses). 
-
-<br>
 
 
 -----
@@ -212,6 +162,63 @@ You will select two electives from a list of approved courses (this list is not 
 * Students must analyze a problem, propose a solution, and implement
 * Should relate to conducting and impact study or building a performance system
 * Use a 15-week format, but is still 3 credits
+
+<br>
+
+## Example Capstone Projects
+* [Using LIDAR Data for a Tree Census](https://castower.github.io/cpp-593-treeproject-site/)  
+  - [The lidR Package](https://github.com/Jean-Romain/lidR/blob/master/README.md)  
+  - [Tree Canopy Analysis using rLiDAR](https://cran.r-project.org/web/packages/ForestTools/vignettes/treetopAnalysis.html)  
+
+
+<table><tr>
+<td> <img src="https://raw.githubusercontent.com/Jean-Romain/storage/master/README/point-cloud-rotating.gif" style="width:600px;"/> </td>
+<td> <img src="https://raw.githubusercontent.com/Jean-Romain/storage/master/README/chm-Khosravipour.png" alt="Drawing" style="width:400px;"/> </td>
+</tr></table>
+
+
+
+
+
+<br>
+
+-----
+
+
+
+<br>
+
+# Example Schedules
+
+Online courses are 7.5 weeks long and organized as two sessions (A and B) each semester. A full-time student could complete the program by taking courses in this order:
+
+
+
+_**SEMESTER 1**_ 
+
+Session A                  |    |   Session B  
+----------------------------|----|------------------------------  
+CPP 523 Program Eval I       |    |  SWK 623 Applied Evaluation  
+CPP 526 Data Science I       |    |  CPP 529 Data Practicum  
+
+
+_**SEMESTER 2**_   
+
+Session A                    |    |   Session B 
+-----------------------------|----|------------------------------
+CPP 524 Program Eval II      |    |  CPP 525 Program Eval III 
+CPP 527 Data Science II      |    |  CPP 528 Data Science III 
+
+
+_**SEMESTER 3**_  
+
+Session A                    |    |   Session B  
+----------------------------|----|------------------------------  
+Capstone (15 weeks  --> )     |    |  Capstone continued  
+Elective      |    |  Elective  
+
+
+Part-time students would approach the course sequences in a different way, and there are also certificate options for Program Evaluation (5 courses) or Data Science (5 courses). 
 
 <br>
 <br>
