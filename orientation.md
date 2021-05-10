@@ -29,16 +29,69 @@ title: New Student Info
 
 ## Hardware Requirements 
 
+
+
 ## Software Installation 
 
+Prior to your first class make sure you have the following software installed on your computer:
+
+We will be using R extensively for core courses in the program. R is a free open-source program developed specifically for statistics and data analytics. Download the most recent version here:
+
+[R Stats Program](https://cran.rstudio.com/)
+
+R Studio provides a nice user interface and some powerful tools to extend R. Install the free version here:
+
+[R Studio Desktop](https://www.rstudio.com/products/rstudio/)
+
+GitHub is a collaboration tool for data analytics. We will use the platform for distributing course materials and hosting review sessions. You will need a GitHub account for some course work. 
+
+If you do not already have one, register here: [https://github.com/join](https://github.com/join)
+
+NOTE that GitHub is a professional platform that will be visible to future employers, so **select your username accordingly**.
 
 
-# Registration 
+# Getting Registered
+
+## Preliminary Advising Meetings
+
+Crystal Ramirez is the Academic Advisor for this program. 
+
+She can be reached at idpadvising@asu.edu or 602-496-1019. *Please include your ASURITE ID for a faster response.*
+
+## Program Handbook 
+
+Please save the attached handbook for future reference, as this is your official guide for your program and contains important information such as:
+
+* Required program courses and concentration options 
+* Pace of program and recommended first semester classes
+*  Sample schedules
+* How to Register for classes
+* Transfer Coursework
+* Important ASU and College Policies 
+
+
+[HANDBOOK](https://ds4ps.org/ms-prog-eval-data-analytics/handbook/)
+
+
+## Registration Requirements 
+
+You MUST enroll in at least one class during the semester you were admitted in order to remain in the system. 
+
+If you are unable to begin right away please contact your advisor as soon as possible so that you are not withdrawn from the program for non-registration.
+
+You must register for at least ... credits each semester to remain in good standing.
+
+## How to Register 
+
+## Course Catalog 
 
 
 
+## Academic Calendar
 
+You can see semester start and end dates, as well as mid-semester holidays and breaks here:
 
+[ASU Academic Calendar](https://students.asu.edu/academic-calendar)
 
 
 <br>
