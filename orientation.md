@@ -10,24 +10,32 @@ title: New Student Info
 
 ----
 
-<img src="https://raw.githubusercontent.com/DS4PS/ms-prog-eval-data-analytics/master/assets/posts/asu_sunburst.png" alt="ASU" style="width:400px" >
+<img src="https://raw.githubusercontent.com/DS4PS/ms-prog-eval-data-analytics/master/assets/posts/asu_sunburst.png" alt="ASU" style="width:200px" >
 
 --- 
 
 
+# Orientation Material
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QVadZl2zXOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Download Slides](https://github.com/DS4PS/ms-prog-eval-data-analytics/raw/master/articles/PEDA-orientation-slides.pdf)
+
+<br>
+<hr>
+<br>
+
+# Pre-Program Checklist 
+
+## Hardware Requirements 
+
+## Software Installation 
 
 
-# Hardware Requirements 
-
-# Software Installation 
-
-# Pre-Program Preparation 
-
-# Orientation 
 
 # Registration 
 
-# Pro-Program Check-List
+
 
 
 
