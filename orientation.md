@@ -93,6 +93,7 @@ They are the gold standard for modern analytics because it makes the process tra
 
 Markdown is a small set of text formatting rules used to create data-driven documents. R Markdown is an extension of Markdown that allows you to combine code and text in the same document. 
 
+Learn more about data-driven documents here: [Introducing Data-Driven Docs](https://ds4ps.org/docs/)  
 Learn more abour R Markdown here: [Getting Started with R Markdown](https://rmarkdown.rstudio.com/lesson-1.html)
 
 <br>
