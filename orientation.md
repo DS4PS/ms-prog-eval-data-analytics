@@ -234,15 +234,15 @@ If you have successfully installed all of the software and you have time before 
 <style>
 h2 {
 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
-  font-size: 28px; 
+  font-size: 30px; 
   font-style: normal; 
   font-variant: small-caps; 
   font-weight: 100;
   line-height: 26.4px;
+  color: maroon;
 }
 h1 { 
   font-size: 36px;  
-  color: maroon;
 }
 h3 {
   color: maroon;
