@@ -200,7 +200,7 @@ The ASU Academic Calendar will list important dates and deadlines such as semest
 
 
 
-## Getting Started
+# Getting Started
 
 If you have successfully installed all of the software and you have time before the first course you can explore some of the tools through the videos below. 
 
