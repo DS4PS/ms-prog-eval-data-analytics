@@ -15,7 +15,18 @@ title: New Student Info
 --- 
 
 
-# Program Orientation 
+# Pre-Program Checklist 
+
+- [ ] Install R 
+- [ ] Install R Studio 
+- [ ] Create a GitHub account 
+- [ ] Setup your ASU student account 
+- [ ] Meet with your advisor 
+- [ ] Register for classes 
+
+<br>
+
+## Program Overview
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QVadZl2zXOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -25,14 +36,7 @@ title: New Student Info
 <hr>
 <br>
 
-# Pre-Program Checklist 
 
-[ ] Install R 
-[ ] Install R Studio 
-[ ] Create a GitHub account 
-[ ] Setup your ASU student account 
-[ ] Meet with your advisor 
-[ ] Register for classes 
 
 
 # Computer Set-Up 
@@ -75,7 +79,7 @@ GitHub is a collaboration tool for data analytics. We will use the platform for 
 <br>
 <br>
 
-<iframe src="https://player.vimeo.com/video/180644880" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/180644880" width="400" height="280" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -96,29 +100,6 @@ Learn more abour R Markdown here: [Getting Started with R Markdown](https://rmar
 [![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/NewCodeChunk/NewCodeChunk_media/NewCodeChunk.gif?raw=true)](../gifs/NewCodeChunk/NewCodeChunk.html)
 
 <br>
-<br>
-<hr>
-<br>
-
-## Getting Started
-
-
-![](https://github.com/DS4PS/dp4ss-textbook/blob/master/figures/r-tools-overview.png?raw=true)
-
-<br>
-
-If you have successfully installed all of the software and you have time before the first course you can explore some of the tools through the videos below. 
-
-**RStudio** helps you manage projects by organizing files, scripts, packages and output. **Markdown** is a simple formatting convention that allows you to create publication-quality documents. **R Markdown** is a specific version of Markdown that allows you to combine text and code to create data-driven documents.
-
-* [Chapter 1: Core R](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html): Learning the basics of R
-
-* [Chapter 2: RStudio](http://ds4ps.org/dp4ss-textbook/ch-020-rstudio.html): RStudio's functionality and features
-
-* [Data-Driven Docs](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html): How R Markdown is used for interactive and dynamic reports
-
-* [A Guide to Markdown](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html): How to use Markdown - the easy-to-learn formatting syntax
-
 <br>
 <hr>
 <br>
@@ -216,6 +197,34 @@ The ASU Academic Calendar will list important dates and deadlines such as semest
 <br>
 <br>
 <br>
+
+
+
+## Getting Started
+
+![](https://github.com/DS4PS/dp4ss-textbook/blob/master/figures/r-tools-overview.png?raw=true)
+
+<br>
+
+If you have successfully installed all of the software and you have time before the first course you can explore some of the tools through the videos below. 
+
+**RStudio** helps you manage projects by organizing files, scripts, packages and output. **Markdown** is a simple formatting convention that allows you to create publication-quality documents. **R Markdown** is a specific version of Markdown that allows you to combine text and code to create data-driven documents.
+
+* [Chapter 1: Core R](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html): Learning the basics of R
+
+* [Chapter 2: RStudio](http://ds4ps.org/dp4ss-textbook/ch-020-rstudio.html): RStudio's functionality and features
+
+* [Data-Driven Docs](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html): How R Markdown is used for interactive and dynamic reports
+
+* [A Guide to Markdown](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html): How to use Markdown - the easy-to-learn formatting syntax
+
+<br>
+<hr>
+<br>
+
+
+
+
 
 
 
