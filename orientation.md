@@ -97,11 +97,6 @@ Learn more about data-driven documents here: [Introducing Data-Driven Docs](http
 Learn more abour R Markdown here: [Getting Started with R Markdown](https://rmarkdown.rstudio.com/lesson-1.html)
 
 <br>
-
-[![](https://github.com/DS4PS/ds4ps.github.io/blob/master/gifs/NewCodeChunk/NewCodeChunk_media/NewCodeChunk.gif?raw=true)](../gifs/NewCodeChunk/NewCodeChunk.html)
-
-<br>
-<br>
 <hr>
 <br>
 
