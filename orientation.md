@@ -202,10 +202,6 @@ The ASU Academic Calendar will list important dates and deadlines such as semest
 
 ## Getting Started
 
-![](https://github.com/DS4PS/dp4ss-textbook/blob/master/figures/r-tools-overview.png?raw=true)
-
-<br>
-
 If you have successfully installed all of the software and you have time before the first course you can explore some of the tools through the videos below. 
 
 **RStudio** helps you manage projects by organizing files, scripts, packages and output. **Markdown** is a simple formatting convention that allows you to create publication-quality documents. **R Markdown** is a specific version of Markdown that allows you to combine text and code to create data-driven documents.
@@ -217,6 +213,13 @@ If you have successfully installed all of the software and you have time before 
 * [Data-Driven Docs](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html): How R Markdown is used for interactive and dynamic reports
 
 * [A Guide to Markdown](http://ds4ps.org/dp4ss-textbook/ch-031-markdown.html): How to use Markdown - the easy-to-learn formatting syntax
+
+
+<br>
+
+![](https://github.com/DS4PS/dp4ss-textbook/blob/master/figures/r-tools-overview.png?raw=true)
+
+<br>
 
 <br>
 <hr>
