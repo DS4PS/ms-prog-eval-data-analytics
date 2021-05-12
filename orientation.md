@@ -66,9 +66,9 @@ She can be reached at idpadvising@asu.edu or 602-496-1019. *Please include your 
 
 ## Program Handbook 
 
-The handbook is your official guide for the program and explains all of the degree requirements in detail, including:
+The program handbook is your official guide for the program and explains all of the degree requirements in detail, including:
 
-[HANDBOOK](https://ds4ps.org/ms-prog-eval-data-analytics/handbook/)
+[MS-PEDA HANDBOOK](https://ds4ps.org/ms-prog-eval-data-analytics/handbook/)
 
 * Required program courses and concentration options 
 * Pace of program and recommended first semester classes
@@ -79,6 +79,20 @@ The handbook is your official guide for the program and explains all of the degr
 
 
 
+## Course Catalog 
+
+Search for courses on the ASU Course Catalog page: [https://webapp4.asu.edu/catalog/](https://webapp4.asu.edu/catalog/)
+
+MS-PEDA students are limited to ASU Online classes, so be sure to select that filter. 
+
+
+## Academic Calendar
+
+The ASU Academic Calendar will list important dates and deadlines such as semester start dates, registration deadlines, withdrawl deadlines, religious holidays and mid-semester breaks:
+
+[ASU Academic Calendar](https://students.asu.edu/academic-calendar)
+
+
 ## Ongoing Registration Requirements 
 
 You MUST enroll in at least one class during the semester you were admitted in order to remain in the system. 
@@ -87,11 +101,6 @@ If you are unable to begin right away please contact your advisor as soon as pos
 
 Consult the [Graduate Student Handbook](https://graduate.asu.edu/sites/default/files/asu-graduate-policies-and-procedures.pdf) for ongoing registration requirements to remain in good standing. They will depend upon your status (full-time or part-time) with some additional considerations for international students (see page 8).
 
-## Course Catalog 
-
-Search for courses on the ASU Course Catalog page: [https://webapp4.asu.edu/catalog/](https://webapp4.asu.edu/catalog/)
-
-MS-PEDA students are limited to ASU Online classes, so be sure to select that filter. 
 
 
 ## Core Course Offerings 
@@ -110,22 +119,15 @@ There are occassional changes, but the core PEDA courses will be offered accordi
 | CPP 593 Capstone | X | X | X | X | X | X |   
 
 
+These core courses represent 8 of your 11 course requirements. You are also required to take PAF 541 or SWG 623 to fulfill the Applied Program Evaluation requirement. Check the course catalog for current offerings. 
 
-## Electives 
+Your two electives can be selected from across the university. ASU is a huge institution with many course options and new ones being added constantly. Availability will depend entirely upon the home departments that offers the elective. Consult with your academic advisor or classmates for recommendations. Some examples of electives PEDA students have taken include: 
 
-Electives can be selected from across the university, but some popular electives include: 
+* BMI 601 Health Informatics  
+* HED 607 Visualization and Presentation  
+* TWC 546 Technical & Scientific Reports  
 
-* Example 1 
-* Example 2 
-* Example 3 
-
-ASU is a huge institution so new courses are frequently offered. Availability will depend entirely upon the departments that offer the electives. The ASU academic catalog will have the most up-to-date information on courses. 
-
-## Academic Calendar
-
-The ASU Academic Calendar will list important dates and deadlines such as semester start dates, registration deadlines, withdrawl deadlines, religious holidays and mid-semester breaks:
-
-[ASU Academic Calendar](https://students.asu.edu/academic-calendar)
+ The ASU academic catalog will have the most up-to-date information on course offerings and availability. 
 
 <br>
 <hr>
@@ -137,8 +139,9 @@ The ASU Academic Calendar will list important dates and deadlines such as semest
 
 
 
-
 # Computer Set-Up 
+
+
 
 ## Hardware Recommendations 
 
