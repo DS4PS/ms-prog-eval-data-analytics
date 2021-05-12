@@ -107,7 +107,7 @@ Consult the [Graduate Student Handbook](https://graduate.asu.edu/sites/default/f
 
 There are occassional changes, but the core PEDA courses will be offered according to the following schedule: 
 
-| COURSE  |  FALL-A  |  FALL-B  |  SPRING-A |  SPRING-B  |  SUMMER-A  |  SUMMER-B | 
+| COURSE  | _ FALL-A _ | _ FALL-B _ | _ SPR-A _ | _ SPR-B _ | _ SUM-A _ | _ SUM-B _ | 
 |:--------------------|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|   
 | CPP 526 Data Science I   | X |   | X |   | X | X |  
 | CPP 527 Data Science II  | X |   | X |   |   |   |  
