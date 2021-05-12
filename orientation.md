@@ -17,12 +17,13 @@ title: New Student Info
 
 # Pre-Program Checklist 
 
-- [ ] Install R 
-- [ ] Install R Studio 
-- [ ] Create a GitHub account 
 - [ ] Setup your ASU student account 
 - [ ] Meet with your advisor 
 - [ ] Register for classes 
+- [ ] Install R 
+- [ ] Install R Studio 
+- [ ] Create a GitHub account 
+
 
 <br>
 
@@ -35,6 +36,104 @@ title: New Student Info
 <br>
 <hr>
 <br>
+
+
+
+
+# Getting Registered 
+
+## Your ASU Student Account 
+
+Upon admissions to the program you will receive information about activating your ASU student account. This account is important because it gives you access to: 
+
+* Registration for courses 
+* Your ASU email account 
+* Free software licenses such as MS Office and Zoom 
+* Access to courses on Canvas 
+
+Note that your default ASU email address serves as your ASURITE ID (minus the @asu.edu part).
+
+Make sure you are checking your ASU email account regularly, as it is the official mode of communication with instructors and advisors. 
+
+
+## Preliminary Advising Meetings
+
+Be sure to schedule a meeting with your academic advisor early in the process. They are your best resource for questions about the program structure (sequence of classes, electives, the capstone project), tuition, graduation requirements, etc. 
+
+**Crystal Ramirez is the Academic Advisor for PEDA students.** 
+
+She can be reached at idpadvising@asu.edu or 602-496-1019. *Please include your ASURITE ID for a faster response.*
+
+## Program Handbook 
+
+The handbook is your official guide for the program and explains all of the degree requirements in detail, including:
+
+[HANDBOOK](https://ds4ps.org/ms-prog-eval-data-analytics/handbook/)
+
+* Required program courses and concentration options 
+* Pace of program and recommended first semester classes
+* Sample schedules
+* How to Register for classes
+* Transfer Coursework
+* Important ASU and College Policies 
+
+
+
+## Ongoing Registration Requirements 
+
+You MUST enroll in at least one class during the semester you were admitted in order to remain in the system. 
+
+If you are unable to begin right away please contact your advisor as soon as possible so that you are not withdrawn from the program for non-registration.
+
+Consult the [Graduate Student Handbook](https://graduate.asu.edu/sites/default/files/asu-graduate-policies-and-procedures.pdf) for ongoing registration requirements to remain in good standing. They will depend upon your status (full-time or part-time) with some additional considerations for international students (see page 8).
+
+## Course Catalog 
+
+Search for courses on the ASU Course Catalog page: [https://webapp4.asu.edu/catalog/](https://webapp4.asu.edu/catalog/)
+
+MS-PEDA students are limited to ASU Online classes, so be sure to select that filter. 
+
+
+## Core Course Offerings 
+
+There are occassional changes, but the core PEDA courses will be offered according to the following schedule: 
+
+| COURSE  |  FALL-A  |  FALL-B  |  SPRING-A |  SPRING-B  |  SUMMER-A  |  SUMMER-B | 
+|:--------------------|:-------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|   
+| CPP 526 Data Science I   | X |   | X |   | X | X |  
+| CPP 527 Data Science II  | X |   | X |   |   |   |  
+| CPP 528 Data Science III |   | X |   | X |   |   |  
+| CPP 523 Program Eval I   | X |   | X |   | X |   |  
+| CPP 524 Program Eval II  |   | X |   | X |   | X |   
+| CPP 525 Program Eval III |   |   |   | X | X |   |  
+| CPP 529 Community Analytics |   | X |   | X |   |   |   
+| CPP 593 Capstone | X | X | X | X | X | X |   
+
+
+
+## Electives 
+
+Electives can be selected from across the university, but some popular electives include: 
+
+* Example 1 
+* Example 2 
+* Example 3 
+
+ASU is a huge institution so new courses are frequently offered. Availability will depend entirely upon the departments that offer the electives. The ASU academic catalog will have the most up-to-date information on courses. 
+
+## Academic Calendar
+
+The ASU Academic Calendar will list important dates and deadlines such as semester start dates, registration deadlines, withdrawl deadlines, religious holidays and mid-semester breaks:
+
+[ASU Academic Calendar](https://students.asu.edu/academic-calendar)
+
+<br>
+<hr>
+<br>
+
+
+
+
 
 
 
@@ -103,98 +202,9 @@ Learn more abour R Markdown here: [Getting Started with R Markdown](https://rmar
 
 
 
-# Getting Registered 
-
-## Your ASU Student Account 
-
-Upon admissions to the program you will receive information about activating your ASU student account. This account is important because it gives you access to: 
-
-* Registration for courses 
-* Your ASU email account 
-* Free software licenses such as MS Office and Zoom 
-* Access to courses on Canvas 
-
-Note that your default ASU email address serves as your ASURITE ID (minus the @asu.edu part).
-
-Make sure you are checking your ASU email account regularly, as it is the official mode of communication with instructors and advisors. 
-
-
-## Preliminary Advising Meetings
-
-If you have any questions about the program structure (sequence of classes, electives, and the capstone project) be sure to schedule a meeting with your academic advisor.
-
-Crystal Ramirez is the Academic Advisor for PEDA students. She can be reached at idpadvising@asu.edu or 602-496-1019. 
-
-*Please include your ASURITE ID for a faster response.*
-
-## Program Handbook 
-
-The handbook is your official guide for the program and explains all of the degree requirements in detail, including:
-
-[HANDBOOK](https://ds4ps.org/ms-prog-eval-data-analytics/handbook/)
-
-* Required program courses and concentration options 
-* Pace of program and recommended first semester classes
-* Sample schedules
-* How to Register for classes
-* Transfer Coursework
-* Important ASU and College Policies 
 
 
 
-## Ongoing Registration Requirements 
-
-You MUST enroll in at least one class during the semester you were admitted in order to remain in the system. 
-
-If you are unable to begin right away please contact your advisor as soon as possible so that you are not withdrawn from the program for non-registration.
-
-You must register for at least ... credits each semester to remain in good standing.
-
-
-## Course Catalog 
-
-You can search for available courses on the ASU Course Catalog page: [https://webapp4.asu.edu/catalog/](https://webapp4.asu.edu/catalog/)
-
-MS-PEDA students are limited to ASU Online classes, so select that filter. 
-
-
-## Core Course Offerings 
-
-There are occassional changes, but the core PEDA courses will be offered according to the following schedule: 
-
-| COURSE  |  FALL  |  SPRING  |  SUMMER |  
-| ------- | ------ | -------- | ------- |  
-| CPP 526 Data Science I   | A | A | B |  
-| CPP 527 Data Science II  | B | B |  |  
-| CPP 528 Data Science III | B | B |  |  
-| CPP 523 Program Eval I   | A | A | A |  
-| CPP 524 Program Eval II  | A | A | A |  
-| CPP 525 Program Eval III | B | B | B |  
-| CPP 529 Community Analytics | B | B |  |  
-| CPP 586 Capstone | C | C | C |  
-
-
-
-## Electives 
-
-Electives can be selected from across the university, but some popular electives include: 
-
-* Example 1 
-* Example 2 
-* Example 3 
-
-ASU is a huge institution so new courses are frequently offered. Availability will depend entirely upon the departments that offer the electives. The ASU academic catalog will have the most up-to-date information on courses. 
-
-## Academic Calendar
-
-The ASU Academic Calendar will list important dates and deadlines such as semester start dates, registration deadlines, withdrawl deadlines, religious holidays and mid-semester breaks:
-
-[ASU Academic Calendar](https://students.asu.edu/academic-calendar)
-
-
-<br>
-<br>
-<br>
 
 
 
