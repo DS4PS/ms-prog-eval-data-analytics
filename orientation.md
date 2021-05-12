@@ -174,7 +174,7 @@ Prior to your first class make sure you have the following software installed on
 
 We will be using R extensively for core courses in the program. R is a free open-source program developed specifically for statistics and data analytics.
 
-R Studio provides a nice user interface and some powerful tools to extend R. 
+R Studio provides a nice user interface and some powerful tools to extend R including a publishing platform that allows you to create professional data-driven reports, websites, dashboards, and more. 
 
 GitHub is a collaboration tool for data analytics. We will use the platform for distributing course materials and hosting review sessions. You will need a GitHub account for some course work. 
 
