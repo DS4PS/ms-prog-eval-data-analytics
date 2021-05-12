@@ -116,7 +116,7 @@ There are occassional changes, but the core PEDA courses will be offered accordi
 | CPP 524 Program Eval II  |   | X |   | X |   | X |   
 | CPP 525 Program Eval III |   |   |   | X | X |   |  
 | CPP 529 Community Analytics |   | X |   | X |   |   |   
-| CPP 593 Capstone | X | X | X | X | X | X |   
+| CPP 593 Applied Project | X | X | X | X | X | X |   
 
 
 ![](https://raw.githubusercontent.com/DS4PS/ms-prog-eval-data-analytics/master/assets/img/core-sequence.png)
