@@ -119,6 +119,8 @@ There are occassional changes, but the core PEDA courses will be offered accordi
 | CPP 593 Capstone | X | X | X | X | X | X |   
 
 
+<img src="https://raw.githubusercontent.com/DS4PS/ms-prog-eval-data-analytics/master/assets/img/core-sequence.png" alt="core-sequence" style="width:400px" >
+
 These core courses represent 8 of your 11 course requirements. You are also required to take PAF 541 or SWG 623 to fulfill the Applied Program Evaluation requirement. Check the course catalog for current offerings. 
 
 Your two electives can be selected from across the university. ASU is a huge institution with many course options and new ones being added constantly. Availability will depend entirely upon the home departments that offers the elective. Consult with your academic advisor or classmates for recommendations. Some examples of electives PEDA students have taken include: 
