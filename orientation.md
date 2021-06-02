@@ -208,7 +208,13 @@ Learn more abour R Markdown here: [Getting Started with R Markdown](https://rmar
 
 
 
+# Join the Community
 
+Join the MS-PEDA groups on Linked-In or Facebook to meet alumni and stay connected to the program. 
+
+[JOIN LINKED-IN GROUP](https://www.linkedin.com/groups/13977637/)
+
+[JOIN FACEBOOK GROUP](https://www.facebook.com/groups/507960480629680)
 
 
 
