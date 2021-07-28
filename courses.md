@@ -114,24 +114,29 @@ title: Courses
 
 ## CPP 528 Foundations of Data Science III: Project Management & Collaboration 
 * Open science and reproducibility
-* Open data movement and standards
-* Project management tools 
-* The agile framework for team management
-* Data APIs
-
------
-
-### Project-Based Course
-
-## CPP 529 Data Practicum: Data-Driven Models of Community Change 
-* Project management foundations
+* Project management for research / data science
+* The agile framework for team management 
 * Import data from several sources including APIs
 * Aggregate all data to proper units of analysis
 * Combine data into single research database
-* Create a data dictionary
-* Conduct analysis using Program Eval tools
+* Documentation of process 
+* Analysis using Program Eval tools
 
 
+## CPP 529 Community Analytics : Data-Driven Models of Community Change 
+* Intro to census data and spatial analsys
+* Intro to GIS packages in R 
+* Visualization using choropleth maps 
+* Developing valid measures of community health 
+* Clustering and group detection 
+* Modeling community change 
+* Data dashboards with GIS tools 
+
+-----
+
+## Practicum (Capstone)
+* Project-based course
+* Work with an organization on a real-world application 
 
 
 # Electives 
