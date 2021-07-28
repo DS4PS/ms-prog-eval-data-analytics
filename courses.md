@@ -54,7 +54,7 @@ title: Courses
 
 ### Program Evaluation Core
 
-## CPP 523 Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing
+## CPP 523 Program Evaluation I: Multiple Regression & Hypothesis Testing
 * Overview of the field of quantitative program evaluation
 * Program impact as effect size
 * Standard errors, confidence intervals, and hypothesis testing
@@ -63,16 +63,15 @@ title: Courses
 * Hypothesis testing using regression
 * Measurement error and statistical power
 
-## Cpp 524 Foundations of Program Evaluation II: Research Design
+## Cpp 524 Program Evaluation II: Research Design
 * Counterfactual analysis
-* Outcomes and measurement
+* Outcomes and measurement (instrument reliability) 
 * Three common counterfactuals (equivalent groups, reflexive, and synthetic)
 * Average treatment effects (treatment on treated, intention to treat)
-* True experiments
-* Quasi-experiments
+* True experiments vs quasi-experimental design 
 * Internal validity and competing hypotheses (Campbell Scores)
 
-## CPP 525 Foundations of Program Evaluation III: Advanced Regression Tools 
+## CPP 525 Program Evaluation III: Advanced Regression Tools 
 * Fixed Effects Models 
 * Instrumental Variables
 * Matching
