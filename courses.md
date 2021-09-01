@@ -36,8 +36,8 @@ title: Courses
 * [Program Eval I](https://ds4ps.org/cpp-523-spr-2021/schedule/) 
 * [Program Eval II](https://ds4ps.org/cpp-524-spr-2021/schedule/) 
 * [Program Eval III](https://ds4ps.org/cpp-525-sum-2021/schedule/) 
-* [Data Science I](https://ds4ps.org/cpp-526-spr-2021/schedule/) 
-* [Data Science II](https://ds4ps.org/cpp-527-spr-2021/schedule/) 
+* [Data Science I](https://watts-college.github.io/cpp-526-fall-2021/schedule/) 
+* [Data Science II](https://watts-college.github.io/cpp-527-fall-2021/schedule/) 
 * [Data Science III](https://ds4ps.org/cpp-528-spr-2021/schedule/) 
 * [Community Analytics](https://ds4ps.org/cpp-529-spr-2021/schedule/) 
 
