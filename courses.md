@@ -105,10 +105,10 @@ title: Courses
 * Simulation 
 * Animations
 * Regular expressions and text analysis
-* Building functions 
-* Building packages
+* Building functions and R packages
 * GitHub pages
 * Advanced markdown formats
+* Templating, automated reporting and batch processing 
 
 
 ## CPP 528 Foundations of Data Science III: Project Management & Collaboration 
