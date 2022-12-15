@@ -54,7 +54,7 @@ title: Courses
 
 ### Program Evaluation Core
 
-## CPP 523 Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing
+## Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing (CPP 523)
 * Overview of the field of quantitative program evaluation
 * Program impact as effect size
 * Standard errors, confidence intervals, and hypothesis testing
@@ -63,7 +63,7 @@ title: Courses
 * Hypothesis testing using regression
 * Measurement error and statistical power
 
-## Cpp 524 Foundations of Program Evaluation II: Research Design
+## Foundations of Program Evaluation II: Research Design (CPP 524)
 * Counterfactual analysis
 * Outcomes and measurement (instrument reliability) 
 * Three common counterfactuals (equivalent groups, reflexive, and synthetic)
@@ -71,7 +71,7 @@ title: Courses
 * True experiments vs quasi-experimental design 
 * Internal validity and competing hypotheses (Campbell Scores)
 
-## CPP 525 Foundations of Program Evaluation III: Advanced Regression Tools 
+## Foundations of Program Evaluation III: Advanced Regression Tools (CPP 525)
 * Fixed Effects Models 
 * Instrumental Variables
 * Matching
@@ -87,7 +87,7 @@ title: Courses
 ### Data Science Core
 
 
-## CPP 526 Foundations of Data Science I: R Programming
+## Foundations of Data Science I: R Programming (CPP 526)
 * Overview of the field of data driven management
 * Functions and arguments
 * Data structures
@@ -100,7 +100,7 @@ title: Courses
 * Building automated reports 
 
 
-## CPP 527 Foundations of Data Science II: Data Wrangling 
+## Foundations of Data Science II: Data Wrangling (CPP 527)
 * Control structures 
 * Simulation 
 * Animations
@@ -111,7 +111,7 @@ title: Courses
 * Templating, automated reporting and batch processing 
 
 
-## CPP 528 Foundations of Data Science III: Project Management & Collaboration 
+## Foundations of Data Science III: Project Management & Collaboration (CPP 528)
 * Open science and reproducibility
 * Project management for research / data science
 * The agile framework for team management 
@@ -122,7 +122,7 @@ title: Courses
 * Analysis using Program Eval tools
 
 
-## CPP 529 Community Analytics : Data-Driven Models of Community Change 
+## Community Analytics : Data-Driven Models of Community Change (CPP 529)
 * Intro to census data and spatial analsys
 * Intro to GIS packages in R 
 * Visualization using choropleth maps 
@@ -172,7 +172,7 @@ You will select two electives from a list of approved courses (this list is not 
 ## Example Capstone Projects
 * [Using LIDAR Data for a Tree Census](https://castower.github.io/cpp-593-treeproject-site/)  
   - [The lidR Package](https://github.com/Jean-Romain/lidR/blob/master/README.md)  
-  - [Tree Canopy Analysis using rLiDAR](https://cran.r-project.org/web/packages/ForestTools/vignettes/treetopAnalysis.html)  
+  - [Tree Canopy Analysis using rLiDAR](https://cran.r-project.org/web/packages/ForestTools/vignettes/treetop_analysis.html)  
 
 
 <table><tr>
