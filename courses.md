@@ -27,7 +27,7 @@ title: Courses
 * 9 credits in Foundations of Program Evaluation (3 course sequence)  
 * 9 credits in Foundations of Data Science (3 course sequence)  
 * 3 credits of Systems and Theories of Program Evaluation (1 course)  
-* 3 credits of applied data project (1 course)  
+* 3 credits of Community Analytics (1 course)  
 * 6 credits of approved electives (2 courses)  
 * 3 credits of a 15-week capstone class (1 course)  
 
