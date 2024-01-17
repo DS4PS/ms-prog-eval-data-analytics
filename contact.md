@@ -22,10 +22,10 @@ title: Learn More
 
 
 
-## Watts College of Public Service
+## Program Info Page in the School of Public Affairs 
 
 <center>
-<a class="uk-button uk-button-primary" href="https://publicservice.asu.edu/programs/ms/program-evaluation-and-data-analytics-ms">MORE INFO</a>
+<a class="uk-button uk-button-primary" href="https://publicservice.asu.edu/masters-degrees-phds/majorinfo/PPPGEMS/graduate/false/2">MORE INFO</a>
 </center>
 <br>
 
