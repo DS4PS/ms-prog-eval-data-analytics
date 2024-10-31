@@ -45,7 +45,7 @@ title: Courses
 * [Data Wrangling](https://ds4ps.org/cpp-526-sum-2020/labs/lab-05-instructions.html) 
 * [Visualization](https://ds4ps.org/cpp-526-sum-2020/labs/lab-04-instructions.html)  
 * [Modeling Community Dynamics](https://ds4ps.org/cpp-529-master/labs/lab-03-tutorial.html)  
-* [Text Analysis w Regular Expressions](https://ds4ps.org/cpp-527-spr-2021/labs/lab-03-instructions.html)  
+* [Text Analysis w Regular Expressions](https://watts-college.github.io/paf-514-template/labs/lab-04-instructions.html)  
 * [Neighborhood Change](https://ds4ps.org/cpp-528-spr-2021/labs/lab-04-tutorial.html)
 
 
