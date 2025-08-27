@@ -54,7 +54,7 @@ title: Courses
 
 ### Program Evaluation Core
 
-## Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing (CPP 523)
+## Foundations of Program Evaluation I: Multiple Regression & Hypothesis Testing (PAF 510)
 * Overview of the field of quantitative program evaluation
 * Program impact as effect size
 * Standard errors, confidence intervals, and hypothesis testing
@@ -63,7 +63,7 @@ title: Courses
 * Hypothesis testing using regression
 * Measurement error and statistical power
 
-## Foundations of Program Evaluation II: Research Design (CPP 524)
+## Foundations of Program Evaluation II: Research Design (PAF 511)
 * Counterfactual analysis
 * Outcomes and measurement (instrument reliability) 
 * Three common counterfactuals (equivalent groups, reflexive, and synthetic)
@@ -71,7 +71,7 @@ title: Courses
 * True experiments vs quasi-experimental design 
 * Internal validity and competing hypotheses (Campbell Scores)
 
-## Foundations of Program Evaluation III: Advanced Regression Tools (CPP 525)
+## Foundations of Program Evaluation III: Advanced Regression Tools (PAF 512)
 * Fixed Effects Models 
 * Instrumental Variables
 * Matching
@@ -87,7 +87,7 @@ title: Courses
 ### Data Science Core
 
 
-## Foundations of Data Science I: R Programming (CPP 526)
+## Foundations of Data Science I: R Programming (PAF 513)
 * Overview of the field of data driven management
 * Functions and arguments
 * Data structures
@@ -100,7 +100,7 @@ title: Courses
 * Building automated reports 
 
 
-## Foundations of Data Science II: Data Wrangling (CPP 527)
+## Foundations of Data Science II: Data Wrangling (PAF 514)
 * Control structures 
 * Simulation 
 * Animations
@@ -111,7 +111,7 @@ title: Courses
 * Templating, automated reporting and batch processing 
 
 
-## Foundations of Data Science III: Project Management & Collaboration (CPP 528)
+## Foundations of Data Science III: Project Management & Collaboration (PAF 515)
 * Open science and reproducibility
 * Project management for research / data science
 * The agile framework for team management 
@@ -122,7 +122,7 @@ title: Courses
 * Analysis using Program Eval tools
 
 
-## Community Analytics : Data-Driven Models of Community Change (CPP 529)
+## Community Analytics : Data-Driven Models of Community Change (PAF 516)
 * Intro to census data and spatial analsys
 * Intro to GIS packages in R 
 * Visualization using choropleth maps 
